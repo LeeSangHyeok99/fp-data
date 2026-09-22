@@ -1,0 +1,132 @@
+Skip to main content
+ABOUT US
+DASHBOARD
+ANALYTICS
+INSIGHTS
+INVESTORS
+CONTACT
+$HYPE
+$60.12
+-1.18%
+MCap ~$28.6B
+i
+$PURR
+$6.68
+-1.47%
+MCap ~$1.52B
+i
+$PURRDAT
+$6.66
+-1.02%
+Hyperliquid Perp
+i
+HOME
+/ DASHBOARD
+Dashboard
+
+Selected financial metrics and live Adjusted Net Asset Value calculations powered by real-time HYPE token pricing.
+
+Date of last update: 07/16/2026
+
+Date of next update: 07/23/2026
+
+UPDATED WEEKLY · LIVE WITH HYPE TOKEN PRICE
+DASHBOARD SNAPSHOT (PNG)
+Note
+Weekly updated items lag the "Date of last update" by one week (e.g., if the "Date of last update" is May 21, 2026, the underlying data for weekly items is as of May 14, 2026). Live updated items — the HYPE token price, PURR share price, and any value derived from them — update in real time.
+HYPE
+Latest Token Pricei	$60.12
+HYPE Tokens Held (M)i	29.3
+Value of Digital Assets ($ in M)i	$1,760.4
+PURR
+Latest Share Pricei	$6.68
+Fully Diluted Shares (M)i	227.2
+Fully Diluted Market Cap ($ in M)i	$1,517.6
+Adjusted Net Asset Value ($ in M)
+Net Asset Valuei	$743.5
+Less: Cash From Operationsi	(4.1)
+Plus: Cash From Financingi	645.2
+Less: Treasury Deploymenti	(603.8)
+Less: Reported Value of Digital Assetsi	(689.1)
+Plus: Current Value of Digital Assetsi	1,760.4
+Change in Deferred Tax Liabilityi	(99.1)
+Adjusted Net Asset Valuei	$1,753.0
+Per Fully Diluted Sharei	$7.72
+Adding Back Deferred Tax Liabilityi	$8.42
+Multiple to Adjusted Net Asset Valuei
+0.87x
+Adding Back Deferred Tax Liabilityi
+0.79x
+at $6.68 PURR
+Adjusted Net Asset Value ($ in M)
+Current Value of Digital Assetsi	$1,760.4
+Cash Holdingsi	149.4
+Deferred Tax Liabilityi	(159.6)
+Other Adjustmentsi	2.8
+ 	
+ 	
+ 	
+Adjusted Net Asset Valuei	$1,753.0
+Per Fully Diluted Sharei	$7.72
+Adding Back Deferred Tax Liabilityi	$8.42
+Multiple to Adjusted Net Asset Valuei
+0.87x
+Adding Back Deferred Tax Liabilityi
+0.79x
+at $6.68 PURR
+Shares Outstanding
+Common Shares1	200.5M
+Preferred Shares2	26.6M
+Dilutive Securities3	0.1M
+Fully Diluted Shares	227.2M
+
+1 Number of common shares is shown as of the latest date when the dashboard was updated.
+
+2 Represents 26,587,647 shares of common shares issuable upon the conversion of outstanding shares of the Company Series A Preferred Stock (subject to certain blocker provisions).
+
+3 Dilutive securities include the dilutive impact of warrants outstanding with an exercise price below the current price of HSI common stock ("in-the-money warrants"), calculated on a cashless exercise basis, together with any other dilutive instruments, as applicable. Out-of-the-money warrants are excluded but would become dilutive if the share price exceeds their exercise prices.
+
+Components may not sum to the total due to rounding.
+
+This section provides two calculations of Adjusted Net Assets (both yielding the same result), allowing investors to understand Adjusted Net Asset Value from the perspective of (i) adjustments to the latest reported Net Asset Value (table on the left) and (ii) the key components of Adjusted Net Asset Value (table on the right).
+
+Please read the explanation and disclaimer below carefully before relying on any of the information presented here. The information and metrics provided here are for informational purposes only and do not constitute investment, financial, tax, legal, or other professional advice, nor do they represent a recommendation, solicitation, or offer to buy, sell, or hold any securities, including PURR shares or HYPE tokens.
+
+Dashboard Explanation and Disclaimer
+COOKIE NOTICE
+
+We use functional browser storage to remember your preferences and keep market data loading fast. We do not use tracking or advertising cookies. Embedded content such as TradingView charts and YouTube videos may set their own cookies if you choose to interact with it.
+
+PRIVACY POLICY
+GOT IT
+×
+
+The premier digital asset treasury platform focused on delivering capital-efficient access to HYPE.
+
+COMPANY
+About Us
+Leadership
+Board
+Dashboard
+INVESTORS
+IR Overview
+News & Events
+IR Calendar
+Presentations
+Financial Results
+SEC Filings
+ANALYTICS
+Stock Data
+Comparative Returns
+HYPE Tokenomics
+RESOURCES
+Insights
+Governance
+Company Info
+Contact
+Press Kit
+© 2026 Hyperliquid Strategies Inc · All Rights Reserved
+Privacy Policy
+Disclaimer
+Sitemap
+Accessibility

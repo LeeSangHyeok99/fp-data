@@ -1,0 +1,1 @@
+{"detail":[{"type":"less_than_equal","loc":["query","days"],"msg":"Input should be less than or equal to 90","input":"365","ctx":{"le":90},"url":"https://errors.pydantic.dev/2.12/v/less_than_equal"}]}

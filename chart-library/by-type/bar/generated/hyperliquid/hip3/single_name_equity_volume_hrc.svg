@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="928.828125pt" height="533.07pt" viewBox="0 0 928.828125 533.07" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-08T11:02:48.458968</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 533.07 
+L 928.828125 533.07 
+L 928.828125 0 
+L 0 0 
+L 0 533.07 
+z
+" style="fill: none; opacity: 0"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 88.328125 502.64 
+L 921.628125 502.64 
+L 921.628125 7.2 
+L 88.328125 7.2 
+L 88.328125 502.64 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 88.328125 502.64 
+L 88.328125 7.2 
+" clip-path="url(#p11869faccd)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #787b86; stroke-opacity: 0.5"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <!-- $0M -->
+      <g style="fill: #747474" transform="translate(73.082344 522.523125) scale(0.14 -0.14)">
+       <defs>
+        <path id="SUIT-Bold-24" d="M 2323 5165 
+L 2323 4742 
+Q 2669 4685 2960 4515 
+Q 3251 4346 3411 4096 
+L 2848 3706 
+Q 2701 3955 2323 4051 
+L 2323 2643 
+L 2682 2509 
+Q 3142 2349 3376 2013 
+Q 3610 1677 3610 1274 
+Q 3610 941 3453 630 
+Q 3296 320 3005 109 
+Q 2714 -102 2323 -141 
+L 2323 -512 
+L 1741 -512 
+L 1741 -115 
+Q 1286 -32 928 240 
+Q 570 512 410 915 
+L 1037 1184 
+Q 1126 960 1312 806 
+Q 1498 653 1741 582 
+L 1741 2144 
+Q 1325 2330 1178 2432 
+Q 890 2624 733 2912 
+Q 576 3200 576 3514 
+Q 576 3802 698 4051 
+Q 832 4326 1110 4512 
+Q 1389 4698 1741 4755 
+L 1741 5165 
+L 2323 5165 
+z
+M 1312 3763 
+Q 1261 3642 1261 3526 
+Q 1261 3373 1337 3232 
+Q 1414 3091 1555 2995 
+Q 1638 2944 1741 2893 
+L 1741 4064 
+Q 1594 4026 1478 3946 
+Q 1363 3866 1312 3763 
+z
+M 2323 550 
+Q 2605 608 2771 813 
+Q 2938 1018 2938 1261 
+Q 2938 1459 2816 1622 
+Q 2694 1786 2458 1862 
+L 2323 1914 
+L 2323 550 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-30" d="M 2061 538 
+Q 2374 538 2617 762 
+Q 2861 986 2995 1386 
+Q 3130 1786 3130 2310 
+Q 3130 2835 2995 3238 
+Q 2861 3642 2617 3866 
+Q 2374 4090 2061 4090 
+Q 1747 4090 1500 3866 
+Q 1254 3642 1120 3238 
+Q 986 2835 986 2310 
+Q 986 1786 1120 1386 
+Q 1254 986 1500 762 
+Q 1747 538 2061 538 
+z
+M 307 2310 
+Q 307 3002 531 3542 
+Q 755 4083 1152 4384 
+Q 1549 4685 2061 4685 
+Q 2566 4685 2963 4384 
+Q 3360 4083 3584 3542 
+Q 3808 3002 3808 2310 
+Q 3808 1626 3584 1085 
+Q 3360 544 2963 240 
+Q 2566 -64 2061 -64 
+Q 1555 -64 1155 240 
+Q 755 544 531 1085 
+Q 307 1626 307 2310 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-4d" d="M 1190 3424 
+L 1190 -51 
+L 512 -51 
+L 512 4672 
+L 1248 4672 
+L 2893 1786 
+L 4531 4672 
+L 5274 4672 
+L 5274 -51 
+L 4595 -51 
+L 4595 3424 
+L 3187 934 
+L 2592 934 
+L 1190 3424 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-24"/>
+       <use xlink:href="#SUIT-Bold-30" x="62.799988"/>
+       <use xlink:href="#SUIT-Bold-4d" x="127.199982"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 266.892411 502.64 
+L 266.892411 7.2 
+" clip-path="url(#p11869faccd)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #787b86; stroke-opacity: 0.5"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <!-- $300M -->
+      <g style="fill: #747474" transform="translate(243.001629 522.523125) scale(0.14 -0.14)">
+       <defs>
+        <path id="SUIT-Bold-33" d="M 2790 2387 
+Q 3098 2208 3283 1904 
+Q 3469 1600 3469 1299 
+Q 3469 909 3267 598 
+Q 3066 288 2707 115 
+Q 2349 -58 1888 -58 
+Q 1434 -58 1075 121 
+Q 717 301 515 617 
+Q 314 934 314 1338 
+L 992 1338 
+Q 992 986 1241 765 
+Q 1491 544 1888 544 
+Q 2291 544 2550 765 
+Q 2810 986 2810 1338 
+Q 2810 1677 2554 1891 
+Q 2298 2106 1901 2106 
+L 1568 2106 
+L 1568 2675 
+L 1907 2675 
+Q 2272 2675 2505 2870 
+Q 2739 3066 2739 3373 
+Q 2739 3686 2515 3881 
+Q 2291 4077 1933 4077 
+Q 1581 4077 1357 3878 
+Q 1133 3680 1133 3366 
+L 454 3366 
+Q 454 3750 643 4048 
+Q 832 4346 1168 4512 
+Q 1504 4678 1933 4678 
+Q 2355 4678 2688 4515 
+Q 3021 4352 3209 4064 
+Q 3398 3776 3398 3411 
+Q 3398 3136 3232 2851 
+Q 3066 2566 2790 2387 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-24"/>
+       <use xlink:href="#SUIT-Bold-33" x="62.799988"/>
+       <use xlink:href="#SUIT-Bold-30" x="121.899979"/>
+       <use xlink:href="#SUIT-Bold-30" x="186.299973"/>
+       <use xlink:href="#SUIT-Bold-4d" x="250.699966"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 445.456696 502.64 
+L 445.456696 7.2 
+" clip-path="url(#p11869faccd)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #787b86; stroke-opacity: 0.5"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <!-- $600M -->
+      <g style="fill: #747474" transform="translate(421.488259 522.523125) scale(0.14 -0.14)">
+       <defs>
+        <path id="SUIT-Bold-36" d="M 1920 531 
+Q 2330 531 2595 800 
+Q 2861 1069 2861 1485 
+Q 2861 1914 2598 2182 
+Q 2336 2451 1920 2451 
+Q 1510 2451 1251 2182 
+Q 992 1914 992 1485 
+Q 992 1069 1251 800 
+Q 1510 531 1920 531 
+z
+M 314 1485 
+Q 314 1901 570 2374 
+L 1850 4653 
+L 2630 4653 
+L 1702 3021 
+Q 1856 3046 1939 3046 
+Q 2406 3046 2768 2844 
+Q 3130 2643 3334 2291 
+Q 3539 1939 3539 1485 
+Q 3539 1037 3334 685 
+Q 3130 333 2762 134 
+Q 2394 -64 1926 -64 
+Q 1459 -64 1091 134 
+Q 723 333 518 685 
+Q 314 1037 314 1485 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-24"/>
+       <use xlink:href="#SUIT-Bold-36" x="62.799988"/>
+       <use xlink:href="#SUIT-Bold-30" x="122.999985"/>
+       <use xlink:href="#SUIT-Bold-30" x="187.399979"/>
+       <use xlink:href="#SUIT-Bold-4d" x="251.799973"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 624.020982 502.64 
+L 624.020982 7.2 
+" clip-path="url(#p11869faccd)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #787b86; stroke-opacity: 0.5"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <!-- $900M -->
+      <g style="fill: #747474" transform="translate(600.052545 522.523125) scale(0.14 -0.14)">
+       <defs>
+        <path id="SUIT-Bold-39" d="M 1933 4096 
+Q 1517 4096 1254 3827 
+Q 992 3558 992 3136 
+Q 992 2714 1254 2445 
+Q 1517 2176 1933 2176 
+Q 2342 2176 2601 2445 
+Q 2861 2714 2861 3136 
+Q 2861 3558 2601 3827 
+Q 2342 4096 1933 4096 
+z
+M 314 3136 
+Q 314 3590 518 3942 
+Q 723 4294 1091 4492 
+Q 1459 4691 1926 4691 
+Q 2394 4691 2762 4492 
+Q 3130 4294 3334 3942 
+Q 3539 3590 3539 3136 
+Q 3539 2714 3283 2253 
+L 2003 -26 
+L 1222 -26 
+L 2150 1606 
+Q 1997 1581 1914 1581 
+Q 1446 1581 1084 1782 
+Q 723 1984 518 2336 
+Q 314 2688 314 3136 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-24"/>
+       <use xlink:href="#SUIT-Bold-39" x="62.799988"/>
+       <use xlink:href="#SUIT-Bold-30" x="122.999985"/>
+       <use xlink:href="#SUIT-Bold-30" x="187.399979"/>
+       <use xlink:href="#SUIT-Bold-4d" x="251.799973"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 802.585268 502.64 
+L 802.585268 7.2 
+" clip-path="url(#p11869faccd)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #787b86; stroke-opacity: 0.5"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <!-- $1,200M -->
+      <g style="fill: #747474" transform="translate(773.808705 522.79) scale(0.14 -0.14)">
+       <defs>
+        <path id="SUIT-Bold-31" d="M 2048 -19 
+L 1370 -13 
+L 1370 3910 
+L 550 3456 
+L 269 4026 
+L 1376 4634 
+L 2048 4634 
+L 2048 -19 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-2c" d="M 730 -883 
+L 224 -883 
+L 467 589 
+L 1165 589 
+L 730 -883 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-32" d="M 410 576 
+Q 544 710 749 889 
+Q 954 1069 1062 1171 
+Q 1581 1632 1888 1936 
+Q 2195 2240 2406 2560 
+Q 2618 2880 2618 3168 
+Q 2618 3565 2390 3814 
+Q 2163 4064 1811 4064 
+Q 1536 4064 1289 3885 
+Q 1043 3706 915 3424 
+L 320 3686 
+Q 512 4128 931 4406 
+Q 1350 4685 1811 4685 
+Q 2246 4685 2582 4493 
+Q 2918 4301 3107 3955 
+Q 3296 3610 3296 3168 
+Q 3296 2733 3037 2304 
+Q 2778 1875 2413 1516 
+Q 2048 1158 1472 666 
+L 1370 576 
+L 3373 576 
+L 3373 -19 
+L 474 -19 
+L 410 576 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-24"/>
+       <use xlink:href="#SUIT-Bold-31" x="62.799988"/>
+       <use xlink:href="#SUIT-Bold-2c" x="104.599976"/>
+       <use xlink:href="#SUIT-Bold-32" x="134.09996"/>
+       <use xlink:href="#SUIT-Bold-30" x="191.699951"/>
+       <use xlink:href="#SUIT-Bold-30" x="256.099945"/>
+       <use xlink:href="#SUIT-Bold-4d" x="320.499939"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     <g id="text_6">
+      <!-- HOOD -->
+      <g style="fill: #ffffff" transform="translate(30 486.236429) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-48" d="M 4109 -51 
+L 3424 -51 
+L 3424 2080 
+L 1197 2080 
+L 1197 -51 
+L 518 -51 
+L 518 4672 
+L 1197 4672 
+L 1197 2669 
+L 3424 2669 
+L 3424 4672 
+L 4109 4672 
+L 4109 -51 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-4f" d="M 2822 493 
+Q 3315 493 3696 720 
+Q 4077 947 4285 1360 
+Q 4493 1773 4493 2310 
+Q 4493 2848 4285 3261 
+Q 4077 3674 3696 3901 
+Q 3315 4128 2822 4128 
+Q 2330 4128 1952 3901 
+Q 1574 3674 1366 3261 
+Q 1158 2848 1158 2310 
+Q 1158 1773 1366 1360 
+Q 1574 947 1952 720 
+Q 2330 493 2822 493 
+z
+M 474 2310 
+Q 474 3008 774 3558 
+Q 1075 4109 1609 4416 
+Q 2144 4723 2822 4723 
+Q 3507 4723 4041 4416 
+Q 4576 4109 4877 3558 
+Q 5178 3008 5178 2310 
+Q 5178 1613 4877 1062 
+Q 4576 512 4041 205 
+Q 3507 -102 2822 -102 
+Q 2144 -102 1609 205 
+Q 1075 512 774 1062 
+Q 474 1613 474 2310 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-44" d="M 1869 544 
+Q 2368 544 2752 765 
+Q 3136 986 3347 1386 
+Q 3558 1786 3558 2310 
+Q 3558 2835 3347 3235 
+Q 3136 3635 2752 3856 
+Q 2368 4077 1869 4077 
+L 1197 4070 
+L 1197 550 
+L 1869 544 
+z
+M 518 4672 
+L 1875 4672 
+Q 2560 4672 3094 4371 
+Q 3629 4070 3929 3532 
+Q 4230 2995 4230 2310 
+Q 4230 1626 3929 1088 
+Q 3629 550 3094 249 
+Q 2560 -51 1875 -51 
+L 518 -51 
+L 518 4672 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-48"/>
+       <use xlink:href="#SUIT-Bold-4f" x="72.299988"/>
+       <use xlink:href="#SUIT-Bold-4f" x="160.599976"/>
+       <use xlink:href="#SUIT-Bold-44" x="248.899963"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12"/>
+     <g id="text_7">
+      <!-- COIN -->
+      <g style="fill: #ffffff" transform="translate(38.922656 451.463829) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-43" d="M 2784 -102 
+Q 2106 -102 1578 205 
+Q 1050 512 752 1062 
+Q 454 1613 454 2310 
+Q 454 3014 752 3561 
+Q 1050 4109 1578 4416 
+Q 2106 4723 2784 4723 
+Q 3258 4723 3680 4537 
+Q 4102 4352 4429 4019 
+L 3981 3578 
+Q 3763 3834 3446 3981 
+Q 3130 4128 2778 4128 
+Q 2291 4128 1920 3901 
+Q 1549 3674 1344 3261 
+Q 1139 2848 1139 2310 
+Q 1139 1773 1344 1360 
+Q 1549 947 1920 720 
+Q 2291 493 2778 493 
+Q 3136 493 3437 640 
+Q 3738 787 3955 1030 
+L 4429 602 
+Q 3725 -109 2784 -102 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-49" d="M 1197 4672 
+L 1197 -51 
+L 518 -51 
+L 518 4672 
+L 1197 4672 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-4e" d="M 4256 -51 
+L 3520 -51 
+L 1178 3507 
+L 1178 -51 
+L 499 -51 
+L 499 4672 
+L 1235 4672 
+L 3571 1120 
+L 3571 4672 
+L 4256 4672 
+L 4256 -51 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-43"/>
+       <use xlink:href="#SUIT-Bold-4f" x="73.399994"/>
+       <use xlink:href="#SUIT-Bold-49" x="161.699982"/>
+       <use xlink:href="#SUIT-Bold-4e" x="188.499969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <!-- HYUNDAI -->
+      <g style="fill: #ffffff" transform="translate(7.2 416.69123) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-59" d="M 2726 1792 
+L 2726 -51 
+L 2048 -51 
+L 2048 1792 
+L 403 4672 
+L 1190 4672 
+L 2387 2541 
+L 3584 4672 
+L 4371 4672 
+L 2726 1792 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-55" d="M 2330 -96 
+Q 1773 -96 1363 147 
+Q 954 390 739 822 
+Q 525 1254 525 1818 
+L 525 4672 
+L 1203 4672 
+L 1203 1818 
+Q 1203 1222 1491 876 
+Q 1779 531 2330 531 
+Q 2880 531 3168 876 
+Q 3456 1222 3456 1818 
+L 3456 4672 
+L 4141 4672 
+L 4141 1818 
+Q 4141 1254 3923 822 
+Q 3706 390 3296 147 
+Q 2886 -96 2330 -96 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-41" d="M 4755 -51 
+L 4032 -51 
+L 3558 1235 
+L 1619 1235 
+L 1126 -51 
+L 403 -51 
+L 2189 4672 
+L 3002 4672 
+L 4755 -51 
+z
+M 3334 1824 
+L 2598 3814 
+L 1837 1824 
+L 3334 1824 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-48"/>
+       <use xlink:href="#SUIT-Bold-59" x="72.299988"/>
+       <use xlink:href="#SUIT-Bold-55" x="146.899979"/>
+       <use xlink:href="#SUIT-Bold-4e" x="219.299973"/>
+       <use xlink:href="#SUIT-Bold-44" x="293.499954"/>
+       <use xlink:href="#SUIT-Bold-41" x="366.799942"/>
+       <use xlink:href="#SUIT-Bold-49" x="447.399933"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <!-- MSTR -->
+      <g style="fill: #ffffff" transform="translate(34.872656 381.91863) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-53" d="M 1043 1293 
+Q 1248 896 1533 691 
+Q 1818 486 2138 486 
+Q 2579 486 2822 688 
+Q 3066 890 3066 1229 
+Q 3066 1453 2934 1606 
+Q 2803 1760 2608 1853 
+Q 2413 1946 2067 2074 
+Q 1626 2234 1350 2381 
+Q 1075 2528 883 2797 
+Q 691 3066 691 3488 
+Q 691 3866 883 4147 
+Q 1075 4429 1414 4576 
+Q 1754 4723 2189 4723 
+Q 2682 4723 3075 4451 
+Q 3469 4179 3661 3642 
+L 3053 3424 
+Q 2931 3776 2707 3952 
+Q 2483 4128 2202 4134 
+Q 1824 4134 1597 3958 
+Q 1370 3782 1370 3488 
+Q 1370 3264 1501 3110 
+Q 1632 2957 1833 2857 
+Q 2035 2758 2374 2630 
+Q 2816 2458 3085 2310 
+Q 3354 2163 3546 1897 
+Q 3738 1632 3738 1222 
+Q 3738 832 3546 531 
+Q 3354 230 2992 64 
+Q 2630 -102 2144 -102 
+Q 1626 -102 1203 176 
+Q 781 454 480 979 
+L 1043 1293 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-54" d="M 3738 4077 
+L 2406 4077 
+L 2406 -51 
+L 1722 -51 
+L 1722 4077 
+L 384 4077 
+L 384 4672 
+L 3738 4672 
+L 3738 4077 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-52" d="M 2227 2317 
+Q 2618 2317 2858 2557 
+Q 3098 2797 3098 3200 
+Q 3098 3603 2858 3840 
+Q 2618 4077 2227 4077 
+L 1197 4077 
+L 1197 2317 
+L 2227 2317 
+z
+M 518 4672 
+L 2310 4672 
+Q 2739 4672 3072 4486 
+Q 3405 4301 3590 3965 
+Q 3776 3629 3776 3194 
+Q 3776 2726 3513 2364 
+Q 3251 2003 2739 1818 
+L 4000 -51 
+L 3181 -51 
+L 1984 1722 
+L 1197 1722 
+L 1197 -51 
+L 518 -51 
+L 518 4672 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-4d"/>
+       <use xlink:href="#SUIT-Bold-53" x="90.599991"/>
+       <use xlink:href="#SUIT-Bold-54" x="155.599976"/>
+       <use xlink:href="#SUIT-Bold-52" x="219.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <!-- SKHX -->
+      <g style="fill: #ffffff" transform="translate(35.667188 347.14603) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-4b" d="M 2240 2573 
+L 4147 -51 
+L 3302 -51 
+L 1773 2048 
+L 1190 1408 
+L 1190 -51 
+L 512 -51 
+L 512 4666 
+L 1190 4666 
+L 1190 2419 
+L 3200 4672 
+L 4109 4672 
+L 2240 2573 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-58" d="M 2861 2317 
+L 4474 -51 
+L 3629 -51 
+L 2438 1734 
+L 1248 -51 
+L 403 -51 
+L 2016 2317 
+L 403 4672 
+L 1248 4672 
+L 2438 2893 
+L 3629 4666 
+L 4474 4672 
+L 2861 2317 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-53"/>
+       <use xlink:href="#SUIT-Bold-4b" x="64.999985"/>
+       <use xlink:href="#SUIT-Bold-48" x="135.899979"/>
+       <use xlink:href="#SUIT-Bold-58" x="208.199966"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <!-- SMSN -->
+      <g style="fill: #ffffff" transform="translate(34.108594 312.373431) scale(0.15 -0.15)">
+       <use xlink:href="#SUIT-Bold-53"/>
+       <use xlink:href="#SUIT-Bold-4d" x="64.999985"/>
+       <use xlink:href="#SUIT-Bold-53" x="155.599976"/>
+       <use xlink:href="#SUIT-Bold-4e" x="220.59996"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17"/>
+     <g id="text_12">
+      <!-- PLTR -->
+      <g style="fill: #ffffff" transform="translate(39.714844 277.600831) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-50" d="M 2234 2317 
+Q 2618 2317 2861 2563 
+Q 3104 2810 3104 3200 
+Q 3104 3584 2857 3830 
+Q 2611 4077 2227 4077 
+L 1190 4077 
+L 1190 2317 
+L 2234 2317 
+z
+M 512 4672 
+L 2253 4672 
+Q 2694 4672 3040 4483 
+Q 3386 4294 3581 3961 
+Q 3776 3629 3776 3200 
+Q 3776 2771 3581 2438 
+Q 3386 2106 3040 1917 
+Q 2694 1728 2253 1728 
+L 1190 1728 
+L 1190 -51 
+L 512 -51 
+L 512 4672 
+z
+" transform="scale(0.015625)"/>
+        <path id="SUIT-Bold-4c" d="M 1184 544 
+L 3322 544 
+L 3322 -51 
+L 506 -51 
+L 506 4672 
+L 1184 4672 
+L 1184 544 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-50"/>
+       <use xlink:href="#SUIT-Bold-4c" x="65.399994"/>
+       <use xlink:href="#SUIT-Bold-54" x="123.299988"/>
+       <use xlink:href="#SUIT-Bold-52" x="187.699982"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_18"/>
+     <g id="text_13">
+      <!-- AMZN -->
+      <g style="fill: #ffffff" transform="translate(32.533594 242.828231) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-5a" d="M 3571 4051 
+L 1082 544 
+L 3571 544 
+L 3571 -51 
+L 262 -51 
+L 262 570 
+L 2746 4077 
+L 262 4077 
+L 262 4672 
+L 3571 4672 
+L 3571 4051 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-41"/>
+       <use xlink:href="#SUIT-Bold-4d" x="80.599991"/>
+       <use xlink:href="#SUIT-Bold-5a" x="171.199982"/>
+       <use xlink:href="#SUIT-Bold-4e" x="231.099976"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_19"/>
+     <g id="text_14">
+      <!-- META -->
+      <g style="fill: #ffffff" transform="translate(33.9 208.055632) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-45" d="M 3494 4077 
+L 1120 4077 
+L 1120 2675 
+L 3162 2675 
+L 3162 2086 
+L 1120 2086 
+L 1120 544 
+L 3494 544 
+L 3494 -51 
+L 442 -51 
+L 442 4672 
+L 3494 4672 
+L 3494 4077 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-4d"/>
+       <use xlink:href="#SUIT-Bold-45" x="90.599991"/>
+       <use xlink:href="#SUIT-Bold-54" x="151.199982"/>
+       <use xlink:href="#SUIT-Bold-41" x="215.599976"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_20"/>
+     <g id="text_15">
+      <!-- GOOGL -->
+      <g style="fill: #ffffff" transform="translate(17.025 173.283032) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-47" d="M 5037 2016 
+Q 5037 1363 4758 889 
+Q 4480 416 3981 163 
+Q 3482 -90 2822 -102 
+Q 2144 -102 1609 205 
+Q 1075 512 774 1062 
+Q 474 1613 474 2310 
+Q 474 3008 774 3555 
+Q 1075 4102 1609 4409 
+Q 2144 4717 2822 4717 
+Q 3546 4717 4058 4384 
+Q 4570 4051 4819 3578 
+L 4237 3277 
+Q 4058 3629 3696 3875 
+Q 3334 4122 2822 4122 
+Q 2330 4122 1949 3894 
+Q 1568 3667 1360 3257 
+Q 1152 2848 1152 2310 
+Q 1152 1773 1360 1360 
+Q 1568 947 1949 720 
+Q 2330 493 2822 493 
+Q 3507 512 3936 854 
+Q 4365 1197 4371 1862 
+L 2899 1862 
+L 2899 2426 
+L 5043 2426 
+L 5037 2016 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-47"/>
+       <use xlink:href="#SUIT-Bold-4f" x="87.099991"/>
+       <use xlink:href="#SUIT-Bold-4f" x="175.399979"/>
+       <use xlink:href="#SUIT-Bold-47" x="263.699966"/>
+       <use xlink:href="#SUIT-Bold-4c" x="350.799957"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_21"/>
+     <g id="text_16">
+      <!-- MSFT -->
+      <g style="fill: #ffffff" transform="translate(36.539062 138.510432) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-46" d="M 3494 4077 
+L 1184 4077 
+L 1184 2611 
+L 3142 2611 
+L 3142 2022 
+L 1184 2022 
+L 1184 -51 
+L 506 -51 
+L 506 4672 
+L 3494 4672 
+L 3494 4077 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-4d"/>
+       <use xlink:href="#SUIT-Bold-53" x="90.599991"/>
+       <use xlink:href="#SUIT-Bold-46" x="155.599976"/>
+       <use xlink:href="#SUIT-Bold-54" x="214.199966"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_22"/>
+     <g id="text_17">
+      <!-- AAPL -->
+      <g style="fill: #ffffff" transform="translate(35.653125 103.737833) scale(0.15 -0.15)">
+       <use xlink:href="#SUIT-Bold-41"/>
+       <use xlink:href="#SUIT-Bold-41" x="80.599991"/>
+       <use xlink:href="#SUIT-Bold-50" x="161.199982"/>
+       <use xlink:href="#SUIT-Bold-4c" x="226.599976"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_23"/>
+     <g id="text_18">
+      <!-- TSLA -->
+      <g style="fill: #ffffff" transform="translate(38.142187 68.965233) scale(0.15 -0.15)">
+       <use xlink:href="#SUIT-Bold-54"/>
+       <use xlink:href="#SUIT-Bold-53" x="64.399994"/>
+       <use xlink:href="#SUIT-Bold-4c" x="129.399979"/>
+       <use xlink:href="#SUIT-Bold-41" x="187.299973"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_24"/>
+     <g id="text_19">
+      <!-- NVDA -->
+      <g style="fill: #ffffff" transform="translate(32.428125 34.192633) scale(0.15 -0.15)">
+       <defs>
+        <path id="SUIT-Bold-56" d="M 2944 -51 
+L 2150 -51 
+L 403 4672 
+L 1126 4672 
+L 2541 864 
+L 3866 4672 
+L 4589 4672 
+L 2944 -51 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SUIT-Bold-4e"/>
+       <use xlink:href="#SUIT-Bold-56" x="74.199982"/>
+       <use xlink:href="#SUIT-Bold-44" x="152.099976"/>
+       <use xlink:href="#SUIT-Bold-41" x="225.399963"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 88.328125 493.112308 
+L 129.993125 493.112308 
+L 129.993125 468.771488 
+L 88.328125 468.771488 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 88.328125 458.339708 
+L 138.921339 458.339708 
+L 138.921339 433.998888 
+L 88.328125 433.998888 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 88.328125 423.567108 
+L 144.873482 423.567108 
+L 144.873482 399.226289 
+L 88.328125 399.226289 
+z
+" clip-path="url(#p11869faccd)" style="fill: #f59e0b"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 88.328125 388.794509 
+L 159.753839 388.794509 
+L 159.753839 364.453689 
+L 88.328125 364.453689 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 88.328125 354.021909 
+L 174.634196 354.021909 
+L 174.634196 329.681089 
+L 88.328125 329.681089 
+z
+" clip-path="url(#p11869faccd)" style="fill: #f59e0b"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 88.328125 319.249309 
+L 195.466696 319.249309 
+L 195.466696 294.90849 
+L 88.328125 294.90849 
+z
+" clip-path="url(#p11869faccd)" style="fill: #f59e0b"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 88.328125 284.47671 
+L 210.347054 284.47671 
+L 210.347054 260.13589 
+L 88.328125 260.13589 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 88.328125 249.70411 
+L 231.179554 249.70411 
+L 231.179554 225.36329 
+L 88.328125 225.36329 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 88.328125 214.93151 
+L 263.916339 214.93151 
+L 263.916339 190.590691 
+L 88.328125 190.590691 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 88.328125 180.158911 
+L 290.700982 180.158911 
+L 290.700982 155.818091 
+L 88.328125 155.818091 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 88.328125 145.386311 
+L 332.365982 145.386311 
+L 332.365982 121.045491 
+L 88.328125 121.045491 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 88.328125 110.613711 
+L 397.839554 110.613711 
+L 397.839554 86.272892 
+L 88.328125 86.272892 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 88.328125 75.841112 
+L 493.073839 75.841112 
+L 493.073839 51.500292 
+L 88.328125 51.500292 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 88.328125 41.068512 
+L 802.585268 41.068512 
+L 802.585268 16.727692 
+L 88.328125 16.727692 
+z
+" clip-path="url(#p11869faccd)" style="fill: #2d8c6f"/>
+   </g>
+   <g id="text_20">
+    <!-- $70M -->
+    <g style="fill: #ffffff" transform="translate(138.921339 484.34346) scale(0.14 -0.14)">
+     <defs>
+      <path id="SUIT-Bold-37" d="M 730 -32 
+L 2554 4064 
+L 416 4058 
+L 416 4659 
+L 3232 4659 
+L 3296 4064 
+L 1472 -32 
+L 730 -32 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-37" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-30" x="119.299973"/>
+     <use xlink:href="#SUIT-Bold-4d" x="183.699966"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <!-- $85M -->
+    <g style="fill: #ffffff" transform="translate(147.849554 449.570861) scale(0.14 -0.14)">
+     <defs>
+      <path id="SUIT-Bold-38" d="M 1901 486 
+Q 2298 486 2550 716 
+Q 2803 947 2803 1312 
+Q 2803 1677 2550 1910 
+Q 2298 2144 1901 2144 
+Q 1504 2144 1248 1910 
+Q 992 1677 992 1312 
+Q 992 947 1248 716 
+Q 1504 486 1901 486 
+z
+M 314 1299 
+Q 314 1606 531 1926 
+Q 749 2246 1082 2432 
+Q 800 2624 621 2905 
+Q 442 3187 442 3437 
+Q 442 3808 627 4099 
+Q 813 4390 1145 4553 
+Q 1478 4717 1901 4717 
+Q 2323 4717 2656 4553 
+Q 2989 4390 3174 4099 
+Q 3360 3808 3360 3437 
+Q 3360 3181 3181 2899 
+Q 3002 2618 2720 2432 
+Q 3059 2240 3273 1923 
+Q 3488 1606 3488 1299 
+Q 3488 896 3286 579 
+Q 3085 262 2723 83 
+Q 2362 -96 1901 -96 
+Q 1440 -96 1078 83 
+Q 717 262 515 579 
+Q 314 896 314 1299 
+z
+M 1126 3437 
+Q 1126 3123 1344 2924 
+Q 1562 2726 1901 2726 
+Q 2246 2726 2464 2924 
+Q 2682 3123 2682 3437 
+Q 2682 3750 2464 3945 
+Q 2246 4141 1901 4141 
+Q 1562 4141 1344 3945 
+Q 1126 3750 1126 3437 
+z
+" transform="scale(0.015625)"/>
+      <path id="SUIT-Bold-35" d="M 499 2150 
+L 659 4640 
+L 3149 4640 
+L 3149 4045 
+L 1312 4045 
+L 1235 2906 
+Q 1574 3059 1894 3059 
+Q 2368 3059 2742 2860 
+Q 3117 2662 3325 2307 
+Q 3533 1952 3533 1498 
+Q 3533 1037 3325 678 
+Q 3117 320 2742 118 
+Q 2368 -83 1894 -83 
+Q 1523 -83 1193 73 
+Q 864 230 633 508 
+Q 403 787 320 1139 
+L 979 1293 
+Q 1050 973 1306 765 
+Q 1562 557 1894 557 
+Q 2317 557 2585 819 
+Q 2854 1082 2854 1498 
+Q 2854 1901 2585 2160 
+Q 2317 2419 1894 2419 
+Q 1715 2419 1516 2320 
+Q 1318 2221 1178 2067 
+L 499 2150 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-38" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-35" x="122.199982"/>
+     <use xlink:href="#SUIT-Bold-4d" x="182.399979"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <!-- $95M -->
+    <g style="fill: #ffffff" transform="translate(153.801696 414.798261) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-39" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-35" x="122.999985"/>
+     <use xlink:href="#SUIT-Bold-4d" x="183.199982"/>
+    </g>
+   </g>
+   <g id="text_23">
+    <!-- $120M -->
+    <g style="fill: #ffffff" transform="translate(168.682054 380.025661) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-31" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-32" x="104.599976"/>
+     <use xlink:href="#SUIT-Bold-30" x="162.199966"/>
+     <use xlink:href="#SUIT-Bold-4d" x="226.59996"/>
+    </g>
+   </g>
+   <g id="text_24">
+    <!-- $145M -->
+    <g style="fill: #ffffff" transform="translate(183.562411 345.253062) scale(0.14 -0.14)">
+     <defs>
+      <path id="SUIT-Bold-34" d="M 3059 1773 
+L 3648 1773 
+L 3648 1184 
+L 3059 1184 
+L 3059 -19 
+L 2381 -19 
+L 2381 1184 
+L 378 1184 
+L 314 1773 
+L 2413 4640 
+L 3059 4640 
+L 3059 1773 
+z
+M 2381 1773 
+L 2381 3507 
+L 1120 1773 
+L 2381 1773 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-31" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-34" x="104.599976"/>
+     <use xlink:href="#SUIT-Bold-35" x="166.499969"/>
+     <use xlink:href="#SUIT-Bold-4d" x="226.699966"/>
+    </g>
+   </g>
+   <g id="text_25">
+    <!-- $180M -->
+    <g style="fill: #ffffff" transform="translate(204.394911 310.480462) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-31" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-38" x="104.599976"/>
+     <use xlink:href="#SUIT-Bold-30" x="163.999969"/>
+     <use xlink:href="#SUIT-Bold-4d" x="228.399963"/>
+    </g>
+   </g>
+   <g id="text_26">
+    <!-- $205M -->
+    <g style="fill: #ffffff" transform="translate(219.275268 275.707862) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-32" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-30" x="120.399979"/>
+     <use xlink:href="#SUIT-Bold-35" x="184.799973"/>
+     <use xlink:href="#SUIT-Bold-4d" x="244.999969"/>
+    </g>
+   </g>
+   <g id="text_27">
+    <!-- $240M -->
+    <g style="fill: #ffffff" transform="translate(240.107768 240.935263) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-32" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-34" x="120.399979"/>
+     <use xlink:href="#SUIT-Bold-30" x="182.299973"/>
+     <use xlink:href="#SUIT-Bold-4d" x="246.699966"/>
+    </g>
+   </g>
+   <g id="text_28">
+    <!-- $295M -->
+    <g style="fill: #ffffff" transform="translate(272.844554 206.162663) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-32" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-39" x="120.399979"/>
+     <use xlink:href="#SUIT-Bold-35" x="180.599976"/>
+     <use xlink:href="#SUIT-Bold-4d" x="240.799973"/>
+    </g>
+   </g>
+   <g id="text_29">
+    <!-- $340M -->
+    <g style="fill: #ffffff" transform="translate(299.629196 171.390063) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-33" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-34" x="121.899979"/>
+     <use xlink:href="#SUIT-Bold-30" x="183.799973"/>
+     <use xlink:href="#SUIT-Bold-4d" x="248.199966"/>
+    </g>
+   </g>
+   <g id="text_30">
+    <!-- $410M -->
+    <g style="fill: #ffffff" transform="translate(341.294196 136.617464) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-34" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-31" x="124.699982"/>
+     <use xlink:href="#SUIT-Bold-30" x="166.499969"/>
+     <use xlink:href="#SUIT-Bold-4d" x="230.899963"/>
+    </g>
+   </g>
+   <g id="text_31">
+    <!-- $520M -->
+    <g style="fill: #ffffff" transform="translate(406.767768 101.844864) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-35" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-32" x="122.999985"/>
+     <use xlink:href="#SUIT-Bold-30" x="180.599976"/>
+     <use xlink:href="#SUIT-Bold-4d" x="244.999969"/>
+    </g>
+   </g>
+   <g id="text_32">
+    <!-- $680M -->
+    <g style="fill: #ffffff" transform="translate(502.002054 67.072264) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-36" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-38" x="122.999985"/>
+     <use xlink:href="#SUIT-Bold-30" x="182.399979"/>
+     <use xlink:href="#SUIT-Bold-4d" x="246.799973"/>
+    </g>
+   </g>
+   <g id="text_33">
+    <!-- $1,200M -->
+    <g style="fill: #ffffff" transform="translate(811.513482 32.433102) scale(0.14 -0.14)">
+     <use xlink:href="#SUIT-Bold-24"/>
+     <use xlink:href="#SUIT-Bold-31" x="62.799988"/>
+     <use xlink:href="#SUIT-Bold-2c" x="104.599976"/>
+     <use xlink:href="#SUIT-Bold-32" x="134.09996"/>
+     <use xlink:href="#SUIT-Bold-30" x="191.699951"/>
+     <use xlink:href="#SUIT-Bold-30" x="256.099945"/>
+     <use xlink:href="#SUIT-Bold-4d" x="320.499939"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p11869faccd">
+   <rect x="88.328125" y="7.2" width="833.3" height="495.44"/>
+  </clipPath>
+ </defs>
+</svg>

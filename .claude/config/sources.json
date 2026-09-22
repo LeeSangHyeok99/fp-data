@@ -1,0 +1,80 @@
+{
+  "onchain": {
+    "defillama": {
+      "name": "DefiLlama",
+      "baseUrl": "https://api.llama.fi",
+      "endpoints": {
+        "tvl": "/v2/historicalChainTvl/{chain}",
+        "protocols": "/protocols",
+        "protocol": "/protocol/{name}",
+        "chains": "/v2/chains"
+      },
+      "rateLimit": {
+        "requests": 100,
+        "period": 60
+      }
+    },
+    "coingecko": {
+      "name": "CoinGecko",
+      "baseUrl": "https://api.coingecko.com/api/v3",
+      "endpoints": {
+        "price": "/simple/price",
+        "history": "/coins/{id}/market_chart",
+        "coins": "/coins/list"
+      },
+      "rateLimit": {
+        "requests": 30,
+        "period": 60
+      }
+    },
+    "etherscan": {
+      "name": "Etherscan",
+      "baseUrl": "https://api.etherscan.io/api",
+      "endpoints": {
+        "balance": "?module=account&action=balance&address={address}",
+        "txlist": "?module=account&action=txlist&address={address}",
+        "tokentx": "?module=account&action=tokentx&address={address}"
+      },
+      "requiresApiKey": true,
+      "rateLimit": {
+        "requests": 5,
+        "period": 1
+      }
+    },
+    "dune": {
+      "name": "Dune Analytics",
+      "baseUrl": "https://api.dune.com/api/v1",
+      "endpoints": {
+        "query": "/query/{query_id}/execute",
+        "results": "/query/{query_id}/results"
+      },
+      "requiresApiKey": true
+    }
+  },
+
+  "validation": {
+    "tvl": {
+      "primary": "defillama",
+      "secondary": ["coingecko", "protocol_api"]
+    },
+    "price": {
+      "primary": "coingecko",
+      "secondary": ["coinmarketcap", "binance"]
+    },
+    "balance": {
+      "primary": "etherscan",
+      "secondary": ["blockscout", "alchemy"]
+    }
+  },
+
+  "aliases": {
+    "eth": "ethereum",
+    "btc": "bitcoin",
+    "arb": "arbitrum",
+    "op": "optimism",
+    "matic": "polygon",
+    "avax": "avalanche",
+    "sol": "solana",
+    "bsc": "binance-smart-chain"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "name": "data-engineering",
+    "version": "1.0.0"
+  },
+
+  "paths": {
+    "source": "sources",
+    "data": "outputs/data",
+    "charts": "outputs/charts",
+    "validation": "outputs/validation",
+    "scripts": "charts",
+    "assets": {
+      "fonts": "assets/font",
+      "images": "assets/img"
+    }
+  },
+
+  "defaults": {
+    "design": "four-pillars",
+    "output": {
+      "formats": ["png", "svg"],
+      "dpi": 150
+    },
+    "validation": {
+      "minSources": 2,
+      "tolerances": {
+        "tvl": 5,
+        "price": 1,
+        "balance": 0,
+        "volume": 5,
+        "apy": 10
+      }
+    }
+  },
+
+  "fonts": {
+    "primary": {
+      "family": "Pretendard",
+      "fallback": "Arial",
+      "weights": {
+        "regular": 400,
+        "medium": 500,
+        "semibold": 600,
+        "bold": 700
+      }
+    },
+    "monospace": {
+      "family": "JetBrains Mono",
+      "fallback": "Consolas"
+    }
+  },
+
+  "logging": {
+    "level": "info",
+    "format": "[{service}] {level}: {message}"
+  }
+}

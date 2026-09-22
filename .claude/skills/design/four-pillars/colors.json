@@ -1,0 +1,43 @@
+{
+  "name": "four-pillars",
+  "description": "Four Pillars Research 다크 테마",
+
+  "background": "transparent",
+  "text": {
+    "primary": "#d1d4dc",
+    "secondary": "#787b86"
+  },
+
+  "grid": {
+    "color": "#787b86",
+    "alpha": 0.5,
+    "linestyle": [3.7, 1.6],
+    "linewidth": 1.0
+  },
+
+  "chart_colors": {
+    "series": [
+      "#5470c6",
+      "#91cc75",
+      "#fac858",
+      "#ee6666",
+      "#73c0de",
+      "#3ba272",
+      "#fc8452",
+      "#9a60b4",
+      "#ea7ccc"
+    ],
+    "positive": "#26a69a",
+    "negative": "#ef5350",
+    "highlight": "#ffffff"
+  },
+
+  "axis": {
+    "color": "#d1d4dc",
+    "tick_color": "#787b86"
+  },
+
+  "brand_colors": {
+    "walrus": "#97F0E5"
+  }
+}

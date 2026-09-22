@@ -1,0 +1,1 @@
+{"detail":[{"type":"string_pattern_mismatch","loc":["query","period"],"msg":"String should match pattern '^(1d|7d|30d)$'","input":"90d","ctx":{"pattern":"^(1d|7d|30d)$"},"url":"https://errors.pydantic.dev/2.12/v/string_pattern_mismatch"}]}

@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="888.3072pt" height="757.7712pt" viewBox="0 0 888.3072 757.7712" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-08-11T15:49:19.779568</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 757.7712  L 888.3072 757.7712  L 888.3072 0  L 0 0  z " style="fill: #fcfbf9" />
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 129.4272 697.248  L 866.7072 697.248  L 866.7072 142.776  L 129.4272 142.776  z " style="fill: #fcfbf9" />
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 161.385697 697.248  L 161.385697 142.776  " style="fill: none; stroke: #e7e5df; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="line2d_2" />
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #565660" x="161.385697" y="707.888625" transform="rotate(-0 161.385697 707.888625)">-16%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 244.30141 697.248  L 244.30141 142.776  " style="fill: none; stroke: #e7e5df; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="line2d_4" />
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #565660" x="244.30141" y="707.888625" transform="rotate(-0 244.30141 707.888625)">-14%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 327.217122 697.248  L 327.217122 142.776  " style="fill: none; stroke: #e7e5df; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="line2d_6" />
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #565660" x="327.217122" y="707.888625" transform="rotate(-0 327.217122 707.888625)">-12%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 410.132835 697.248  L 410.132835 142.776  " style="fill: none; stroke: #e7e5df; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="line2d_8" />
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #565660" x="410.132835" y="707.888625" transform="rotate(-0 410.132835 707.888625)">-10%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 493.048547 697.248  L 493.048547 142.776  " style="fill: none; stroke: #e7e5df; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="line2d_10" />
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #565660" x="493.048547" y="707.888625" transform="rotate(-0 493.048547 707.888625)">-8%</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 575.96426 697.248  L 575.96426 142.776  " style="fill: none; stroke: #e7e5df; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="line2d_12" />
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #565660" x="575.96426" y="707.888625" transform="rotate(-0 575.96426 707.888625)">-6%</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 658.879972 697.248  L 658.879972 142.776  " style="fill: none; stroke: #e7e5df; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="line2d_14" />
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #565660" x="658.879972" y="707.888625" transform="rotate(-0 658.879972 707.888625)">-4%</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 741.795685 697.248  L 741.795685 142.776  " style="fill: none; stroke: #e7e5df; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="line2d_16" />
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #565660" x="741.795685" y="707.888625" transform="rotate(-0 741.795685 707.888625)">-2%</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 824.711397 697.248  L 824.711397 142.776  " style="fill: none; stroke: #e7e5df; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="line2d_18" />
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #565660" x="824.711397" y="707.888625" transform="rotate(-0 824.711397 707.888625)">0%</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 10.5px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #565660" x="498.0672" y="721.356594" transform="rotate(-0 498.0672 721.356594)">Daily return, June 5 close against June 4 close</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_19" />
+     <g id="text_11">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="691.854205" transform="rotate(-0 127.4272 691.854205)">USAR</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_20" />
+     <g id="text_12">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="683.818379" transform="rotate(-0 127.4272 683.818379)">SKHX</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_21" />
+     <g id="text_13">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="675.782553" transform="rotate(-0 127.4272 675.782553)">ARM</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_22" />
+     <g id="text_14">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="667.746727" transform="rotate(-0 127.4272 667.746727)">DRAM</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_23" />
+     <g id="text_15">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="659.710901" transform="rotate(-0 127.4272 659.710901)">INTC</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_24" />
+     <g id="text_16">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="651.675075" transform="rotate(-0 127.4272 651.675075)">MU</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_25" />
+     <g id="text_17">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="643.639249" transform="rotate(-0 127.4272 643.639249)">SNDK</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_26" />
+     <g id="text_18">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="635.603423" transform="rotate(-0 127.4272 635.603423)">CRCL</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_27" />
+     <g id="text_19">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="627.567596" transform="rotate(-0 127.4272 627.567596)">EWY</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_28" />
+     <g id="text_20">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="619.53177" transform="rotate(-0 127.4272 619.53177)">SMSN</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_29" />
+     <g id="text_21">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="611.495944" transform="rotate(-0 127.4272 611.495944)">AMD</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_30" />
+     <g id="text_22">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="603.460118" transform="rotate(-0 127.4272 603.460118)">MRVL</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_31" />
+     <g id="text_23">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="595.424292" transform="rotate(-0 127.4272 595.424292)">ORCL</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_32" />
+     <g id="text_24">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="587.388466" transform="rotate(-0 127.4272 587.388466)">KR200</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_33" />
+     <g id="text_25">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="579.35264" transform="rotate(-0 127.4272 579.35264)">RIVN</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_34" />
+     <g id="text_26">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="571.316814" transform="rotate(-0 127.4272 571.316814)">URNM</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_35" />
+     <g id="text_27">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="563.280988" transform="rotate(-0 127.4272 563.280988)">BB</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_36" />
+     <g id="text_28">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="555.245162" transform="rotate(-0 127.4272 555.245162)">RKLB</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_37" />
+     <g id="text_29">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="547.209336" transform="rotate(-0 127.4272 547.209336)">SILVER</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_38" />
+     <g id="text_30">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="539.17351" transform="rotate(-0 127.4272 539.17351)">EWT</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_39" />
+     <g id="text_31">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="531.137683" transform="rotate(-0 127.4272 531.137683)">CRWV</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_40" />
+     <g id="text_32">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="523.101857" transform="rotate(-0 127.4272 523.101857)">LITE</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_41" />
+     <g id="text_33">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="515.066031" transform="rotate(-0 127.4272 515.066031)">HIMS</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_42" />
+     <g id="text_34">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="507.030205" transform="rotate(-0 127.4272 507.030205)">COIN</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_43" />
+     <g id="text_35">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="498.994379" transform="rotate(-0 127.4272 498.994379)">PALLADIUM</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_44" />
+     <g id="text_36">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="490.958553" transform="rotate(-0 127.4272 490.958553)">MSTR</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_45" />
+     <g id="text_37">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="482.922727" transform="rotate(-0 127.4272 482.922727)">AVGO</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_46" />
+     <g id="text_38">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="474.886901" transform="rotate(-0 127.4272 474.886901)">NOW</text>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_47" />
+     <g id="text_39">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="466.851075" transform="rotate(-0 127.4272 466.851075)">PURRDAT</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_48" />
+     <g id="text_40">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="458.815249" transform="rotate(-0 127.4272 458.815249)">HOOD</text>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_49" />
+     <g id="text_41">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="450.779423" transform="rotate(-0 127.4272 450.779423)">DELL</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_50" />
+     <g id="text_42">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="442.743596" transform="rotate(-0 127.4272 442.743596)">IBM</text>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_51" />
+     <g id="text_43">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="434.70777" transform="rotate(-0 127.4272 434.70777)">TSM</text>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_52" />
+     <g id="text_44">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="426.671944" transform="rotate(-0 127.4272 426.671944)">HYUNDAI</text>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="line2d_53" />
+     <g id="text_45">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="418.636118" transform="rotate(-0 127.4272 418.636118)">TSLA</text>
+     </g>
+    </g>
+    <g id="ytick_36">
+     <g id="line2d_54" />
+     <g id="text_46">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="410.600292" transform="rotate(-0 127.4272 410.600292)">PLATINUM</text>
+     </g>
+    </g>
+    <g id="ytick_37">
+     <g id="line2d_55" />
+     <g id="text_47">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="402.564466" transform="rotate(-0 127.4272 402.564466)">NVDA</text>
+     </g>
+    </g>
+    <g id="ytick_38">
+     <g id="line2d_56" />
+     <g id="text_48">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="394.52864" transform="rotate(-0 127.4272 394.52864)">META</text>
+     </g>
+    </g>
+    <g id="ytick_39">
+     <g id="line2d_57" />
+     <g id="text_49">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="386.492814" transform="rotate(-0 127.4272 386.492814)">ASML</text>
+     </g>
+    </g>
+    <g id="ytick_40">
+     <g id="line2d_58" />
+     <g id="text_50">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="378.456988" transform="rotate(-0 127.4272 378.456988)">PLTR</text>
+     </g>
+    </g>
+    <g id="ytick_41">
+     <g id="line2d_59" />
+     <g id="text_51">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="370.421162" transform="rotate(-0 127.4272 370.421162)">XYZ100</text>
+     </g>
+    </g>
+    <g id="ytick_42">
+     <g id="line2d_60" />
+     <g id="text_52">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="362.385336" transform="rotate(-0 127.4272 362.385336)">BABA</text>
+     </g>
+    </g>
+    <g id="ytick_43">
+     <g id="line2d_61" />
+     <g id="text_53">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="354.34951" transform="rotate(-0 127.4272 354.34951)">BIRD</text>
+     </g>
+    </g>
+    <g id="ytick_44">
+     <g id="line2d_62" />
+     <g id="text_54">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="346.313683" transform="rotate(-0 127.4272 346.313683)">EWJ</text>
+     </g>
+    </g>
+    <g id="ytick_45">
+     <g id="line2d_63" />
+     <g id="text_55">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="338.277857" transform="rotate(-0 127.4272 338.277857)">NATGAS</text>
+     </g>
+    </g>
+    <g id="ytick_46">
+     <g id="line2d_64" />
+     <g id="text_56">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="330.242031" transform="rotate(-0 127.4272 330.242031)">JP225</text>
+     </g>
+    </g>
+    <g id="ytick_47">
+     <g id="line2d_65" />
+     <g id="text_57">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="322.206205" transform="rotate(-0 127.4272 322.206205)">MSFT</text>
+     </g>
+    </g>
+    <g id="ytick_48">
+     <g id="line2d_66" />
+     <g id="text_58">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="314.170379" transform="rotate(-0 127.4272 314.170379)">ZM</text>
+     </g>
+    </g>
+    <g id="ytick_49">
+     <g id="line2d_67" />
+     <g id="text_59">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="306.134553" transform="rotate(-0 127.4272 306.134553)">BX</text>
+     </g>
+    </g>
+    <g id="ytick_50">
+     <g id="line2d_68" />
+     <g id="text_60">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="298.098727" transform="rotate(-0 127.4272 298.098727)">GOLD</text>
+     </g>
+    </g>
+    <g id="ytick_51">
+     <g id="line2d_69" />
+     <g id="text_61">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="290.062901" transform="rotate(-0 127.4272 290.062901)">AMZN</text>
+     </g>
+    </g>
+    <g id="ytick_52">
+     <g id="line2d_70" />
+     <g id="text_62">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="282.027075" transform="rotate(-0 127.4272 282.027075)">COPPER</text>
+     </g>
+    </g>
+    <g id="ytick_53">
+     <g id="line2d_71" />
+     <g id="text_63">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="273.991249" transform="rotate(-0 127.4272 273.991249)">GME</text>
+     </g>
+    </g>
+    <g id="ytick_54">
+     <g id="line2d_72" />
+     <g id="text_64">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="265.955423" transform="rotate(-0 127.4272 265.955423)">SP500</text>
+     </g>
+    </g>
+    <g id="ytick_55">
+     <g id="line2d_73" />
+     <g id="text_65">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="257.919596" transform="rotate(-0 127.4272 257.919596)">EWZ</text>
+     </g>
+    </g>
+    <g id="ytick_56">
+     <g id="line2d_74" />
+     <g id="text_66">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="249.88377" transform="rotate(-0 127.4272 249.88377)">DKNG</text>
+     </g>
+    </g>
+    <g id="ytick_57">
+     <g id="line2d_75" />
+     <g id="text_67">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="241.847944" transform="rotate(-0 127.4272 241.847944)">CL</text>
+     </g>
+    </g>
+    <g id="ytick_58">
+     <g id="line2d_76" />
+     <g id="text_68">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="233.812118" transform="rotate(-0 127.4272 233.812118)">GOOGL</text>
+     </g>
+    </g>
+    <g id="ytick_59">
+     <g id="line2d_77" />
+     <g id="text_69">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="225.776292" transform="rotate(-0 127.4272 225.776292)">XLE</text>
+     </g>
+    </g>
+    <g id="ytick_60">
+     <g id="line2d_78" />
+     <g id="text_70">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="217.740466" transform="rotate(-0 127.4272 217.740466)">BRENTOIL</text>
+     </g>
+    </g>
+    <g id="ytick_61">
+     <g id="line2d_79" />
+     <g id="text_71">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="209.70464" transform="rotate(-0 127.4272 209.70464)">AAPL</text>
+     </g>
+    </g>
+    <g id="ytick_62">
+     <g id="line2d_80" />
+     <g id="text_72">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="201.668814" transform="rotate(-0 127.4272 201.668814)">EUR</text>
+     </g>
+    </g>
+    <g id="ytick_63">
+     <g id="line2d_81" />
+     <g id="text_73">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="193.632988" transform="rotate(-0 127.4272 193.632988)">GBP</text>
+     </g>
+    </g>
+    <g id="ytick_64">
+     <g id="line2d_82" />
+     <g id="text_74">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="185.597162" transform="rotate(-0 127.4272 185.597162)">COST</text>
+     </g>
+    </g>
+    <g id="ytick_65">
+     <g id="line2d_83" />
+     <g id="text_75">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="177.561336" transform="rotate(-0 127.4272 177.561336)">LLY</text>
+     </g>
+    </g>
+    <g id="ytick_66">
+     <g id="line2d_84" />
+     <g id="text_76">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="169.52551" transform="rotate(-0 127.4272 169.52551)">EBAY</text>
+     </g>
+    </g>
+    <g id="ytick_67">
+     <g id="line2d_85" />
+     <g id="text_77">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="161.489683" transform="rotate(-0 127.4272 161.489683)">JPY</text>
+     </g>
+    </g>
+    <g id="ytick_68">
+     <g id="line2d_86" />
+     <g id="text_78">
+      <text style="font-size: 7.4px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #565660" x="127.4272" y="153.453857" transform="rotate(-0 127.4272 153.453857)">NFLX</text>
+     </g>
+    </g>
+   </g>
+   <g id="bars_0">
+    <path d="M 824.711397 692.105071  L 162.939927 692.105071  L 162.939927 686.319277  L 824.711397 686.319277  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_1">
+    <path d="M 824.711397 684.069245  L 277.901624 684.069245  L 277.901624 678.28345  L 824.711397 678.28345  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_2">
+    <path d="M 824.711397 676.033419  L 287.695884 676.033419  L 287.695884 670.247624  L 824.711397 670.247624  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_3">
+    <path d="M 824.711397 667.997593  L 313.807616 667.997593  L 313.807616 662.211798  L 824.711397 662.211798  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_4">
+    <path d="M 824.711397 659.961767  L 339.614464 659.961767  L 339.614464 654.175972  L 824.711397 654.175972  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_5">
+    <path d="M 824.711397 651.925941  L 343.322634 651.925941  L 343.322634 646.140146  L 824.711397 646.140146  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_6">
+    <path d="M 824.711397 643.890115  L 347.37454 643.890115  L 347.37454 638.10432  L 824.711397 638.10432  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_7">
+    <path d="M 824.711397 635.854289  L 358.097668 635.854289  L 358.097668 630.068494  L 824.711397 630.068494  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_8">
+    <path d="M 824.711397 627.818463  L 371.34455 627.818463  L 371.34455 622.032668  L 824.711397 622.032668  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_9">
+    <path d="M 824.711397 619.782637  L 373.406613 619.782637  L 373.406613 613.996842  L 824.711397 613.996842  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_10">
+    <path d="M 824.711397 611.74681  L 378.98783 611.74681  L 378.98783 605.961016  L 824.711397 605.961016  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_11">
+    <path d="M 824.711397 603.710984  L 390.387116 603.710984  L 390.387116 597.92519  L 824.711397 597.92519  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_12">
+    <path d="M 824.711397 595.675158  L 395.336571 595.675158  L 395.336571 589.889363  L 824.711397 589.889363  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_13">
+    <path d="M 824.711397 587.639332  L 416.34375 587.639332  L 416.34375 581.853537  L 824.711397 581.853537  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_14">
+    <path d="M 824.711397 579.603506  L 423.744075 579.603506  L 423.744075 573.817711  L 824.711397 573.817711  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_15">
+    <path d="M 824.711397 571.56768  L 435.072692 571.56768  L 435.072692 565.781885  L 824.711397 565.781885  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_16">
+    <path d="M 824.711397 563.531854  L 446.406405 563.531854  L 446.406405 557.746059  L 824.711397 557.746059  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_17">
+    <path d="M 824.711397 555.496028  L 461.021261 555.496028  L 461.021261 549.710233  L 824.711397 549.710233  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_18">
+    <path d="M 824.711397 547.460202  L 484.263371 547.460202  L 484.263371 541.674407  L 824.711397 541.674407  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_19">
+    <path d="M 824.711397 539.424376  L 489.92587 539.424376  L 489.92587 533.638581  L 824.711397 533.638581  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_20">
+    <path d="M 824.711397 531.38855  L 490.796036 531.38855  L 490.796036 525.602755  L 824.711397 525.602755  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_21">
+    <path d="M 824.711397 523.352723  L 497.219251 523.352723  L 497.219251 517.566929  L 824.711397 517.566929  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_22">
+    <path d="M 824.711397 515.316897  L 514.754449 515.316897  L 514.754449 509.531103  L 824.711397 509.531103  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_23">
+    <path d="M 824.711397 507.281071  L 517.325693 507.281071  L 517.325693 501.495277  L 824.711397 501.495277  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_24">
+    <path d="M 824.711397 499.245245  L 521.076394 499.245245  L 521.076394 493.45945  L 824.711397 493.45945  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_25">
+    <path d="M 824.711397 491.209419  L 533.080366 491.209419  L 533.080366 485.423624  L 824.711397 485.423624  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_26">
+    <path d="M 824.711397 483.173593  L 535.088057 483.173593  L 535.088057 477.387798  L 824.711397 477.387798  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_27">
+    <path d="M 824.711397 475.137767  L 535.219694 475.137767  L 535.219694 469.351972  L 824.711397 469.351972  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_28">
+    <path d="M 824.711397 467.101941  L 540.55159 467.101941  L 540.55159 461.316146  L 824.711397 461.316146  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_29">
+    <path d="M 824.711397 459.066115  L 547.505535 459.066115  L 547.505535 453.28032  L 824.711397 453.28032  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_30">
+    <path d="M 824.711397 451.030289  L 549.491171 451.030289  L 549.491171 445.244494  L 824.711397 445.244494  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_31">
+    <path d="M 824.711397 442.994463  L 549.716784 442.994463  L 549.716784 437.208668  L 824.711397 437.208668  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_32">
+    <path d="M 824.711397 434.958637  L 557.916479 434.958637  L 557.916479 429.172842  L 824.711397 429.172842  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_33">
+    <path d="M 824.711397 426.92281  L 563.362377 426.92281  L 563.362377 421.137016  L 824.711397 421.137016  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_34">
+    <path d="M 824.711397 418.886984  L 574.031353 418.886984  L 574.031353 413.10119  L 824.711397 413.10119  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_35">
+    <path d="M 824.711397 410.851158  L 576.835766 410.851158  L 576.835766 405.065363  L 824.711397 405.065363  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_36">
+    <path d="M 824.711397 402.815332  L 588.38936 402.815332  L 588.38936 397.029537  L 824.711397 397.029537  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_37">
+    <path d="M 824.711397 394.779506  L 590.005463 394.779506  L 590.005463 388.993711  L 824.711397 388.993711  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_38">
+    <path d="M 824.711397 386.74368  L 595.475521 386.74368  L 595.475521 380.957885  L 824.711397 380.957885  z " style="fill: #8e2018" />
+   </g>
+   <g id="bars_39">
+    <path d="M 824.711397 378.707854  L 617.922175 378.707854  L 617.922175 372.922059  L 824.711397 372.922059  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_40">
+    <path d="M 824.711397 370.672028  L 644.477753 370.672028  L 644.477753 364.886233  L 824.711397 364.886233  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_41">
+    <path d="M 824.711397 362.636202  L 648.301977 362.636202  L 648.301977 356.850407  L 824.711397 356.850407  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_42">
+    <path d="M 824.711397 354.600376  L 649.176038 354.600376  L 649.176038 348.814581  L 824.711397 348.814581  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_43">
+    <path d="M 824.711397 346.56455  L 663.994338 346.56455  L 663.994338 340.778755  L 824.711397 340.778755  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_44">
+    <path d="M 824.711397 338.528723  L 670.13409 338.528723  L 670.13409 332.742929  L 824.711397 332.742929  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_45">
+    <path d="M 824.711397 330.492897  L 676.60349 330.492897  L 676.60349 324.707103  L 824.711397 324.707103  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_46">
+    <path d="M 824.711397 322.457071  L 680.104502 322.457071  L 680.104502 316.671277  L 824.711397 316.671277  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_47">
+    <path d="M 824.711397 314.421245  L 681.807722 314.421245  L 681.807722 308.63545  L 824.711397 308.63545  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_48">
+    <path d="M 824.711397 306.385419  L 688.726839 306.385419  L 688.726839 300.599624  L 824.711397 300.599624  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_49">
+    <path d="M 824.711397 298.349593  L 697.263092 298.349593  L 697.263092 292.563798  L 824.711397 292.563798  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_50">
+    <path d="M 824.711397 290.313767  L 699.889583 290.313767  L 699.889583 284.527972  L 824.711397 284.527972  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_51">
+    <path d="M 824.711397 282.277941  L 700.402752 282.277941  L 700.402752 276.492146  L 824.711397 276.492146  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_52">
+    <path d="M 824.711397 274.242115  L 707.967668 274.242115  L 707.967668 268.45632  L 824.711397 268.45632  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_53">
+    <path d="M 824.711397 266.206289  L 727.337112 266.206289  L 727.337112 260.420494  L 824.711397 260.420494  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_54">
+    <path d="M 824.711397 258.170463  L 733.808632 258.170463  L 733.808632 252.384668  L 824.711397 252.384668  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_55">
+    <path d="M 824.711397 250.134637  L 740.557064 250.134637  L 740.557064 244.348842  L 824.711397 244.348842  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_56">
+    <path d="M 824.711397 242.09881  L 748.614896 242.09881  L 748.614896 236.313016  L 824.711397 236.313016  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_57">
+    <path d="M 824.711397 234.062984  L 756.588159 234.062984  L 756.588159 228.27719  L 824.711397 228.27719  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_58">
+    <path d="M 824.711397 226.027158  L 757.519673 226.027158  L 757.519673 220.241363  L 824.711397 220.241363  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_59">
+    <path d="M 824.711397 217.991332  L 777.227624 217.991332  L 777.227624 212.205537  L 824.711397 212.205537  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_60">
+    <path d="M 824.711397 209.955506  L 784.124033 209.955506  L 784.124033 204.169711  L 824.711397 204.169711  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_61">
+    <path d="M 824.711397 201.91968  L 794.37464 201.91968  L 794.37464 196.133885  L 824.711397 196.133885  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_62">
+    <path d="M 824.711397 193.883854  L 795.380921 193.883854  L 795.380921 188.098059  L 824.711397 188.098059  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_63">
+    <path d="M 824.711397 185.848028  L 809.096946 185.848028  L 809.096946 180.062233  L 824.711397 180.062233  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_64">
+    <path d="M 824.711397 177.812202  L 814.408566 177.812202  L 814.408566 172.026407  L 824.711397 172.026407  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_65">
+    <path d="M 824.711397 169.776376  L 825.847229 169.776376  L 825.847229 163.990581  L 824.711397 163.990581  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_66">
+    <path d="M 824.711397 161.74055  L 830.155803 161.74055  L 830.155803 155.954755  L 824.711397 155.954755  z " style="fill: #c0392b" />
+   </g>
+   <g id="bars_67">
+    <path d="M 824.711397 153.704723  L 833.194473 153.704723  L 833.194473 147.918929  L 824.711397 147.918929  z " style="fill: #c0392b" />
+   </g>
+   <g id="patch_3">
+    <path d="M 129.4272 697.248  L 866.7072 697.248  " style="fill: none; stroke: #d9d7cf; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="text_79">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #17171b" x="156.939927" y="691.487111" transform="rotate(-0 156.939927 691.487111)">-16.0%</text>
+   </g>
+   <g id="text_80">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #17171b" x="271.901624" y="683.451285" transform="rotate(-0 271.901624 683.451285)">-13.2%</text>
+   </g>
+   <g id="text_81">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #17171b" x="281.695884" y="675.415459" transform="rotate(-0 281.695884 675.415459)">-13.0%</text>
+   </g>
+   <g id="text_82">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #17171b" x="307.807616" y="667.379633" transform="rotate(-0 307.807616 667.379633)">-12.3%</text>
+   </g>
+   <g id="text_83">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #17171b" x="333.614464" y="659.343807" transform="rotate(-0 333.614464 659.343807)">-11.7%</text>
+   </g>
+   <g id="text_84">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #17171b" x="337.322634" y="651.307981" transform="rotate(-0 337.322634 651.307981)">-11.6%</text>
+   </g>
+   <g id="text_85">
+    <text style="font-weight: 700; font-size: 13.5px; font-family: 'Helvetica Neue'; fill: #17171b" transform="translate(155.232 182.911804)">56 of 68 markets fell</text>
+    <text style="font-weight: 700; font-size: 13.5px; font-family: 'Helvetica Neue'; fill: #17171b" transform="translate(155.232 200.031491)">more than 2%.</text>
+    <text style="font-weight: 700; font-size: 13.5px; font-family: 'Helvetica Neue'; fill: #17171b" transform="translate(155.232 217.151179)">0 rose more than 2%.</text>
+   </g>
+   <g id="text_86">
+    <text style="font-size: 9.4px; font-family: 'Helvetica Neue'; fill: #565660" transform="translate(155.232 263.154947)">Darker bars are memory, semiconductor and</text>
+    <text style="font-size: 9.4px; font-family: 'Helvetica Neue'; fill: #565660" transform="translate(155.232 274.498104)">semi-adjacent Korean names.</text>
+   </g>
+   <g id="line2d_87">
+    <path d="M 824.711397 697.248  L 824.711397 142.776  " style="fill: none; stroke: #565660; stroke-linecap: square" />
+   </g>
+   <g id="legend_1">
+    <g id="line2d_88">
+     <path d="M 158.62104 290.790546  L 168.12104 290.790546  L 177.62104 290.790546  " style="fill: none; stroke: #8e2018; stroke-width: 7; stroke-linecap: square" />
+    </g>
+    <g id="text_87">
+     <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #17171b" x="184.27104" y="294.115546" transform="rotate(-0 184.27104 294.115546)">Memory / semiconductors</text>
+    </g>
+    <g id="line2d_89">
+     <path d="M 158.62104 304.290937  L 168.12104 304.290937  L 177.62104 304.290937  " style="fill: none; stroke: #c0392b; stroke-width: 7; stroke-linecap: square" />
+    </g>
+    <g id="text_88">
+     <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #17171b" x="184.27104" y="307.615937" transform="rotate(-0 184.27104 307.615937)">All other xyz markets</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_89">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'Charter'; text-anchor: start; fill: #17171b" x="21.6" y="37.051406" transform="rotate(-0 21.6 37.051406)">On June 5, 56 of Trade[XYZ]'s Markets Fell More Than 2% and None Rose</text>
+  </g>
+  <g id="text_90">
+   <text style="font-size: 12.5px; font-family: 'Helvetica Neue'; text-anchor: start; fill: #565660" x="21.6" y="71.652181" transform="rotate(-0 21.6 71.652181)">The quarter's clearest stress day, selected by composite z-score across volume, realized volatility and range. Memory and semiconductors led it.</text>
+  </g>
+  <g id="text_91">
+   <text style="font-size: 8.2px; font-family: 'Helvetica Neue'; text-anchor: start; fill: #8a8a94" x="21.6" y="734.424856" transform="rotate(-0 21.6 734.424856)">Data as of 2026-06-05 UTC daily bars | Source: 0xArchive HIP-3 daily candles | Arrakis, July 2026</text>
+  </g>
+ </g>
+ <defs>
+  
+ </defs>
+</svg>

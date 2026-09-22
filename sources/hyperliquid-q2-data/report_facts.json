@@ -1,0 +1,543 @@
+{
+ "is_monthly": {
+  "2025-10": {
+   "fees": 113860323.91,
+   "fees_perp": 95417670.98,
+   "fees_hip3": 404005.0,
+   "fees_hip3_deployer": 404005.0,
+   "fees_spot": 5261548.34,
+   "fees_spot_unit": 1123177.35,
+   "fees_builder": 8758870.94,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "fees_hyperevm_gas": 1943452.43,
+   "fees_hyperevm_base": 645282.69,
+   "fees_hyperevm_priority": 1298169.77,
+   "fees_auction": 480211.65,
+   "fees_auction_perp": 67382.22,
+   "holders_revenue": 105372979.04,
+   "hypercore_buybacks": 103208465.13,
+   "hyperevm_burn": 1684302.29,
+   "auction_burn": 480211.65,
+   "take_rate": 0.9255
+  },
+  "2025-11": {
+   "fees": 94442892.91,
+   "fees_perp": 78159135.4,
+   "fees_hip3": 1161463.91,
+   "fees_hip3_deployer": 1161463.91,
+   "fees_spot": 3681396.5,
+   "fees_spot_unit": 904967.4,
+   "fees_builder": 7609474.25,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "fees_hyperevm_gas": 1162157.44,
+   "fees_hyperevm_base": 281454.91,
+   "fees_hyperevm_priority": 880702.5,
+   "fees_auction": 261876.1,
+   "fees_auction_perp": 340958.0,
+   "holders_revenue": 72671211.8,
+   "hypercore_buybacks": 71410196.73,
+   "hyperevm_burn": 999138.97,
+   "auction_burn": 261876.1,
+   "take_rate": 0.7695
+  },
+  "2025-12": {
+   "fees": 65585865.2,
+   "fees_perp": 53432226.94,
+   "fees_hip3": 731994.41,
+   "fees_hip3_deployer": 731994.41,
+   "fees_spot": 2382095.87,
+   "fees_spot_unit": 638110.27,
+   "fees_builder": 6240404.34,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "fees_hyperevm_gas": 702094.42,
+   "fees_hyperevm_base": 124746.38,
+   "fees_hyperevm_priority": 577348.03,
+   "fees_auction": 111886.41,
+   "fees_auction_perp": 615058.13,
+   "holders_revenue": 47736452.24,
+   "hypercore_buybacks": 47046676.22,
+   "hyperevm_burn": 577889.61,
+   "auction_burn": 111886.41,
+   "take_rate": 0.7278
+  },
+  "2026-01": {
+   "fees": 75022210.7,
+   "fees_perp": 58161697.87,
+   "fees_hip3": 2824975.64,
+   "fees_hip3_deployer": 2665364.61,
+   "fees_spot": 2339028.47,
+   "fees_spot_unit": 516456.59,
+   "fees_builder": 5807802.14,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "fees_hyperevm_gas": 617579.87,
+   "fees_hyperevm_base": 120934.19,
+   "fees_hyperevm_priority": 496645.65,
+   "fees_auction": 311045.94,
+   "fees_auction_perp": 1778259.57,
+   "holders_revenue": 54167956.87,
+   "hypercore_buybacks": 53329453.14,
+   "hyperevm_burn": 527457.79,
+   "auction_burn": 311045.94,
+   "take_rate": 0.722
+  },
+  "2026-02": {
+   "fees": 68761450.83,
+   "fees_perp": 53240194.5,
+   "fees_hip3": 3002006.64,
+   "fees_hip3_deployer": 2710714.48,
+   "fees_spot": 2119882.41,
+   "fees_spot_unit": 509143.01,
+   "fees_builder": 5732822.27,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "fees_hyperevm_gas": 745839.68,
+   "fees_hyperevm_base": 131429.26,
+   "fees_hyperevm_priority": 614410.38,
+   "fees_auction": 190334.25,
+   "fees_auction_perp": 510513.59,
+   "holders_revenue": 49096594.94,
+   "hypercore_buybacks": 48270970.62,
+   "hyperevm_burn": 635290.07,
+   "auction_burn": 190334.25,
+   "take_rate": 0.714
+  },
+  "2026-03": {
+   "fees": 66256334.5,
+   "fees_perp": 48209730.54,
+   "fees_hip3": 4553249.04,
+   "fees_hip3_deployer": 4287213.76,
+   "fees_spot": 1765365.68,
+   "fees_spot_unit": 429601.31,
+   "fees_builder": 6116604.1,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "fees_hyperevm_gas": 490523.5,
+   "fees_hyperevm_base": 43949.87,
+   "fees_hyperevm_priority": 446573.66,
+   "fees_auction": 94567.75,
+   "fees_auction_perp": 309478.82,
+   "holders_revenue": 46637094.49,
+   "hypercore_buybacks": 46122022.12,
+   "hyperevm_burn": 420504.62,
+   "auction_burn": 94567.75,
+   "take_rate": 0.7039
+  },
+  "2026-04": {
+   "fees": 54974272.1,
+   "fees_perp": 40488582.85,
+   "fees_hip3": 3470585.42,
+   "fees_hip3_deployer": 3323150.32,
+   "fees_spot": 1464450.11,
+   "fees_spot_unit": 410393.09,
+   "fees_builder": 5049677.21,
+   "fees_priority": 95801.28,
+   "fees_priority_order": 44811.52,
+   "fees_priority_gossip": 50989.73,
+   "fees_hyperevm_gas": 258509.46,
+   "fees_hyperevm_base": 16497.75,
+   "fees_hyperevm_priority": 242011.7,
+   "fees_auction": 122373.95,
+   "fees_auction_perp": 290748.41,
+   "holders_revenue": 39879870.76,
+   "hypercore_buybacks": 39534875.17,
+   "hyperevm_burn": 222621.64,
+   "auction_burn": 122373.95,
+   "take_rate": 0.7254
+  },
+  "2026-05": {
+   "fees": 61672621.0,
+   "fees_perp": 45242373.65,
+   "fees_hip3": 3242958.65,
+   "fees_hip3_deployer": 3142880.48,
+   "fees_spot": 2485224.01,
+   "fees_spot_unit": 391652.71,
+   "fees_builder": 4996247.17,
+   "fees_priority": 758766.95,
+   "fees_priority_order": 281059.24,
+   "fees_priority_gossip": 477707.7,
+   "fees_hyperevm_gas": 813684.6,
+   "fees_hyperevm_base": 140367.32,
+   "fees_hyperevm_priority": 673317.26,
+   "fees_auction": 196166.64,
+   "fees_auction_perp": 402666.14,
+   "holders_revenue": 45466650.64,
+   "hypercore_buybacks": 44597168.99,
+   "hyperevm_burn": 673315.01,
+   "auction_burn": 196166.64,
+   "take_rate": 0.7372
+  },
+  "2026-06": {
+   "fees": 81022475.92,
+   "fees_perp": 58973989.21,
+   "fees_hip3": 4420010.9,
+   "fees_hip3_deployer": 4363261.46,
+   "fees_spot": 2902872.84,
+   "fees_spot_unit": 475938.68,
+   "fees_builder": 6150091.66,
+   "fees_priority": 2085009.14,
+   "fees_priority_order": 1228318.23,
+   "fees_priority_gossip": 856690.91,
+   "fees_hyperevm_gas": 1126765.31,
+   "fees_hyperevm_base": 168816.68,
+   "fees_hyperevm_priority": 957948.63,
+   "fees_auction": 119082.39,
+   "fees_auction_perp": 405454.33,
+   "holders_revenue": 57534435.26,
+   "hypercore_buybacks": 56528894.68,
+   "hyperevm_burn": 886458.19,
+   "auction_burn": 119082.39,
+   "take_rate": 0.7101
+  },
+  "2026-07": {
+   "fees": 27492288.56,
+   "fees_perp": 18631440.07,
+   "fees_hip3": 1857894.75,
+   "fees_hip3_deployer": 1847023.55,
+   "fees_spot": 617697.7,
+   "fees_spot_unit": 161278.46,
+   "fees_builder": 2671294.17,
+   "fees_priority": 1364136.53,
+   "fees_priority_order": 834677.52,
+   "fees_priority_gossip": 529459.01,
+   "fees_hyperevm_gas": 242983.83,
+   "fees_hyperevm_base": 13439.23,
+   "fees_hyperevm_priority": 229544.58,
+   "fees_auction": 98539.5,
+   "fees_auction_perp": 0.0,
+   "holders_revenue": 19398256.81,
+   "hypercore_buybacks": 19094480.16,
+   "hyperevm_burn": 205237.15,
+   "auction_burn": 98539.5,
+   "take_rate": 0.7056
+  }
+ },
+ "is_quarterly": {
+  "2Q25": {
+   "fees": 5426492.5,
+   "fees_perp": 0.0,
+   "fees_hip3": 0.0,
+   "fees_hip3_deployer": 0.0,
+   "fees_spot": 0.0,
+   "fees_spot_unit": 0.0,
+   "fees_builder": 1819193.0899999999,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "fees_hyperevm_gas": 1660606.5100000002,
+   "fees_hyperevm_base": 861308.62,
+   "fees_hyperevm_priority": 799297.9,
+   "fees_auction": 1946692.9,
+   "fees_auction_perp": 0.0,
+   "holders_revenue": 178245245.19,
+   "hypercore_buybacks": 174795222.9,
+   "hyperevm_burn": 1503329.3800000001,
+   "auction_burn": 1946692.9,
+   "take_rate": 100.0669
+  },
+  "3Q25": {
+   "fees": 181908859.86,
+   "fees_perp": 139163993.39000002,
+   "fees_hip3": 0.0,
+   "fees_hip3_deployer": 0.0,
+   "fees_spot": 14385971.760000002,
+   "fees_spot_unit": 3424073.74,
+   "fees_builder": 19796951.23,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "fees_hyperevm_gas": 3058014.02,
+   "fees_hyperevm_base": 1267999.65,
+   "fees_hyperevm_priority": 1790014.3599999999,
+   "fees_auction": 2079855.72,
+   "fees_auction_perp": 0.0,
+   "holders_revenue": 285648669.97,
+   "hypercore_buybacks": 280878171.78999996,
+   "hyperevm_burn": 2690642.36,
+   "auction_burn": 2079855.72,
+   "take_rate": 21.548399999999997
+  },
+  "4Q25": {
+   "fees": 273889082.02,
+   "fees_perp": 227009033.32,
+   "fees_hip3": 2297463.32,
+   "fees_hip3_deployer": 2297463.32,
+   "fees_spot": 11325040.71,
+   "fees_spot_unit": 2666255.02,
+   "fees_builder": 22608749.53,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "fees_hyperevm_gas": 3807704.29,
+   "fees_hyperevm_base": 1051483.98,
+   "fees_hyperevm_priority": 2756220.3,
+   "fees_auction": 853974.16,
+   "fees_auction_perp": 1023398.35,
+   "holders_revenue": 225780643.08,
+   "hypercore_buybacks": 221665338.08,
+   "hyperevm_burn": 3261330.8699999996,
+   "auction_burn": 853974.16,
+   "take_rate": 2.4227999999999996
+  },
+  "1Q26": {
+   "fees": 210039996.03,
+   "fees_perp": 159611622.91,
+   "fees_hip3": 10380231.32,
+   "fees_hip3_deployer": 9663292.85,
+   "fees_spot": 6224276.5600000005,
+   "fees_spot_unit": 1455200.9100000001,
+   "fees_builder": 17657228.509999998,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "fees_hyperevm_gas": 1853943.05,
+   "fees_hyperevm_base": 296313.32,
+   "fees_hyperevm_priority": 1557629.69,
+   "fees_auction": 595947.94,
+   "fees_auction_perp": 2598251.98,
+   "holders_revenue": 149901646.3,
+   "hypercore_buybacks": 147722445.88,
+   "hyperevm_burn": 1583252.48,
+   "auction_burn": 595947.94,
+   "take_rate": 2.1399
+  },
+  "2Q26": {
+   "fees": 197669369.01999998,
+   "fees_perp": 144704945.71,
+   "fees_hip3": 11133554.97,
+   "fees_hip3_deployer": 10829292.26,
+   "fees_spot": 6852546.96,
+   "fees_spot_unit": 1277984.48,
+   "fees_builder": 16196016.04,
+   "fees_priority": 2939577.37,
+   "fees_priority_order": 1554188.99,
+   "fees_priority_gossip": 1385388.34,
+   "fees_hyperevm_gas": 2198959.37,
+   "fees_hyperevm_base": 325681.75,
+   "fees_hyperevm_priority": 1873277.5899999999,
+   "fees_auction": 437622.98000000004,
+   "fees_auction_perp": 1098868.8800000001,
+   "holders_revenue": 142880956.66,
+   "hypercore_buybacks": 140660938.84,
+   "hyperevm_burn": 1782394.8399999999,
+   "auction_burn": 437622.98000000004,
+   "take_rate": 2.1727
+  }
+ },
+ "hype_avg_close_monthly": {
+  "2026-01": 25.41,
+  "2026-02": 30.46,
+  "2026-03": 36.34,
+  "2026-04": 40.35,
+  "2026-05": 49.06,
+  "2026-06": 64.91,
+  "2026-07": 67.37
+ },
+ "unlocks": {
+  "q2_claimed": 1289000,
+  "q2_entitled": 29760000.0,
+  "q2_rate_pct": 4.3,
+  "q2_claim_value_usd": 68801810,
+  "q2_entitled_value_usd": 1530854400,
+  "cum_claimed_since_cliff": 4548146,
+  "cum_entitled_7mo": 69440000.0,
+  "jul6_next": 452000,
+  "cum_rate_pct": 6.5,
+  "unclaimed_vested": 64891854,
+  "unclaimed_value_at_q2close": 4285587822
+ },
+ "evm_dex_vol_q_B": {
+  "2Q25": 2.68,
+  "3Q25": 15.82,
+  "4Q25": 15.61,
+  "1Q26": 9.26,
+  "2Q26": 9.98
+ },
+ "hl_binance_ratio_q_pct": {
+  "1Q26": 12.5,
+  "2Q25": 10.6,
+  "2Q26": 14.6,
+  "3Q25": 12.6,
+  "4Q25": 10.8
+ },
+ "liquidations_q_B": {
+  "4Q25": 14.63,
+  "1Q26": 19.12,
+  "2Q26": 12.78
+ },
+ "hlp_liq_pnl_q_M": {
+  "2Q25": 0.0,
+  "3Q25": 0.0,
+  "4Q25": 0.0,
+  "1Q26": 0.0,
+  "2Q26": 0.0
+ },
+ "llama_tvl_eoq_B": {
+  "2Q25": 3.71,
+  "3Q25": 5.84,
+  "4Q25": 4.15,
+  "1Q26": 4.9,
+  "2Q26": 5.72
+ },
+ "staked_eoq_M": {
+  "2Q25": 422.1,
+  "3Q25": 425.5,
+  "4Q25": 432.3,
+  "1Q26": 434.7,
+  "2Q26": 438.1
+ },
+ "supply": {
+  "circulating": 298805025.9489643,
+  "total": 999111520.3711593,
+  "staked": 439159965.26603824,
+  "emission_per_year": 9827871.84496371,
+  "burn_per_year": 7590170.011666666,
+  "cum_burnt_hype": 47079337.835291915,
+  "cum_burnt_usd": 3089887561.1369615
+ },
+ "emissions_q2_M": 2.41,
+ "evm_dex_2q26_shares": {
+  "PRJX": 92.3,
+  "HYPERSWAP": 7.5,
+  "HYBRA": 0.3
+ },
+ "evm_dex_2q26_total_B": 9.98,
+ "lending_snapshot": {
+  "HyperLend": {
+   "tvl": 406771949.93981206,
+   "loans": 251653042.8675768
+  },
+  "Morpho": {
+   "tvl": 248376276.5560488,
+   "loans": 86444839.60872707
+  },
+  "HypurrFi": {
+   "tvl": 7976285.813788194,
+   "loans": 3250258.755679347
+  },
+  "Euler": {
+   "tvl": 2395161.591600775,
+   "loans": 1564612.8803337675
+  },
+  "Hyperbeat USD": {
+   "tvl": 1697388.6924637049,
+   "loans": 0.0
+  },
+  "Hyperdrive HL Lending": {
+   "tvl": 914501.0274382987,
+   "loans": 384503.22606625996
+  },
+  "Sentiment": {
+   "tvl": 511364.17393686343,
+   "loans": 342748.5472447535
+  },
+  "Timeswap": {
+   "tvl": 73710.77262628422,
+   "loans": 0.0
+  },
+  "HyperYield": {
+   "tvl": 32163.690743554867,
+   "loans": 59450.69893664936
+  },
+  "PrimeFi": {
+   "tvl": 11186.731281560267,
+   "loans": 0.0
+  },
+  "Teller": {
+   "tvl": 7127.683262660594,
+   "loans": 0.0
+  },
+  "Purrlend": {
+   "tvl": 450.3739714204813,
+   "loans": 0.0
+  },
+  "Impermax Finance": {
+   "tvl": 322.57410608304855,
+   "loans": 246.47112307546644
+  },
+  "Lucky Peaches": {
+   "tvl": 123.1370225945394,
+   "loans": 11787.13647467022
+  },
+  "Ploutos Money": {
+   "tvl": 0.059800629824874385,
+   "loans": 0.0
+  },
+  "TermMax": {
+   "tvl": 0.0,
+   "loans": 0.0
+  },
+  "LND": {
+   "tvl": 0.0,
+   "loans": 0.0
+  },
+  "Curve Finance": {
+   "tvl": 0.0,
+   "loans": 0.0
+  }
+ },
+ "lending_tvl_eoq_M": {
+  "2Q25": 795,
+  "3Q25": 1204,
+  "4Q25": 815,
+  "1Q26": 843,
+  "2Q26": 744
+ },
+ "foundation_stake_eoq": {
+  "4Q25": {
+   "date": "2025-12-31",
+   "total_M": 432.3,
+   "foundation_pct": 58.0,
+   "validators": 30
+  },
+  "1Q26": {
+   "date": "2026-03-31",
+   "total_M": 434.7,
+   "foundation_pct": 55.7,
+   "validators": 30
+  },
+  "2Q26": {
+   "date": "2026-06-30",
+   "total_M": 438.1,
+   "foundation_pct": 48.6,
+   "validators": 33
+  },
+  "now": {
+   "date": "2026-07-16",
+   "total_M": 439.2,
+   "foundation_pct": 48.5,
+   "validators": 33
+  }
+ },
+ "etf_asxn": [
+  {
+   "source": "bhyp",
+   "date": "2026-07-14",
+   "hype_in_trust": 2100057.61,
+   "aum_usd": 140731574.0,
+   "inception_date": "May 14, 2026",
+   "exchange": "NYSE Arca",
+   "issuer": "Bitwise Investment Advisers, LLC",
+   "net_expense_ratio_pct": 0.0
+  },
+  {
+   "source": "thyp",
+   "date": "2026-07-15",
+   "hype_in_trust": 416767.7347965,
+   "aum_usd": 28516075.69,
+   "inception_date": "Aug 28, 2025",
+   "exchange": "SIX Swiss Exchange; Deutsche Boerse Xetra",
+   "issuer": "21Shares AG",
+   "net_expense_ratio_pct": null
+  }
+ ]
+}

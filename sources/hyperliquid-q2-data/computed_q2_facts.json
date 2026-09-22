@@ -1,0 +1,603 @@
+{
+ "income_statement_quarterly": {
+  "2Q25": {
+   "fees": 5426492.5,
+   "revenue": 178245245.19,
+   "holders_revenue": 178245245.19,
+   "earnings": 178245245.19,
+   "fees_perp": 0.0,
+   "fees_spot": 0.0,
+   "fees_hip3": 0.0,
+   "fees_spot_unit": 0.0,
+   "fees_hip3_deployer": 0.0,
+   "fees_hyperevm_gas": 1660606.5100000002,
+   "fees_hyperevm_base": 861308.62,
+   "fees_hyperevm_priority": 799297.9,
+   "fees_builder": 1819193.0899999999,
+   "fees_auction": 1946692.9,
+   "fees_auction_perp": 0.0,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "hypercore_buybacks": 174795222.9,
+   "hyperevm_burn": 1503329.3800000001,
+   "auction_burn": 1946692.9,
+   "take_rate": 100.0669,
+   "unpriced_spot_fee_token_amount": 0.0,
+   "days": 91.0
+  },
+  "3Q25": {
+   "fees": 181908859.86,
+   "revenue": 285648669.97,
+   "holders_revenue": 285648669.97,
+   "earnings": 285648669.97,
+   "fees_perp": 139163993.39000002,
+   "fees_spot": 14385971.760000002,
+   "fees_hip3": 0.0,
+   "fees_spot_unit": 3424073.74,
+   "fees_hip3_deployer": 0.0,
+   "fees_hyperevm_gas": 3058014.02,
+   "fees_hyperevm_base": 1267999.65,
+   "fees_hyperevm_priority": 1790014.3599999999,
+   "fees_builder": 19796951.23,
+   "fees_auction": 2079855.72,
+   "fees_auction_perp": 0.0,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "hypercore_buybacks": 280878171.78999996,
+   "hyperevm_burn": 2690642.36,
+   "auction_burn": 2079855.72,
+   "take_rate": 21.548399999999997,
+   "unpriced_spot_fee_token_amount": 0.0,
+   "days": 92.0
+  },
+  "4Q25": {
+   "fees": 273889082.02,
+   "revenue": 225780643.08,
+   "holders_revenue": 225780643.08,
+   "earnings": 225780643.08,
+   "fees_perp": 227009033.32,
+   "fees_spot": 11325040.71,
+   "fees_hip3": 2297463.32,
+   "fees_spot_unit": 2666255.02,
+   "fees_hip3_deployer": 2297463.32,
+   "fees_hyperevm_gas": 3807704.29,
+   "fees_hyperevm_base": 1051483.98,
+   "fees_hyperevm_priority": 2756220.3,
+   "fees_builder": 22608749.53,
+   "fees_auction": 853974.16,
+   "fees_auction_perp": 1023398.35,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "hypercore_buybacks": 221665338.08,
+   "hyperevm_burn": 3261330.8699999996,
+   "auction_burn": 853974.16,
+   "take_rate": 2.4227999999999996,
+   "unpriced_spot_fee_token_amount": 0.0,
+   "days": 92.0
+  },
+  "1Q26": {
+   "fees": 210039996.03,
+   "revenue": 149901646.3,
+   "holders_revenue": 149901646.3,
+   "earnings": 149901646.3,
+   "fees_perp": 159611622.91,
+   "fees_spot": 6224276.5600000005,
+   "fees_hip3": 10380231.32,
+   "fees_spot_unit": 1455200.9100000001,
+   "fees_hip3_deployer": 9663292.85,
+   "fees_hyperevm_gas": 1853943.05,
+   "fees_hyperevm_base": 296313.32,
+   "fees_hyperevm_priority": 1557629.69,
+   "fees_builder": 17657228.509999998,
+   "fees_auction": 595947.94,
+   "fees_auction_perp": 2598251.98,
+   "fees_priority": 0.0,
+   "fees_priority_order": 0.0,
+   "fees_priority_gossip": 0.0,
+   "hypercore_buybacks": 147722445.88,
+   "hyperevm_burn": 1583252.48,
+   "auction_burn": 595947.94,
+   "take_rate": 2.1399,
+   "unpriced_spot_fee_token_amount": 0.0,
+   "days": 90.0
+  },
+  "2Q26": {
+   "fees": 197669369.01999998,
+   "revenue": 142880956.66,
+   "holders_revenue": 142880956.66,
+   "earnings": 142880956.66,
+   "fees_perp": 144704945.71,
+   "fees_spot": 6852546.96,
+   "fees_hip3": 11133554.97,
+   "fees_spot_unit": 1277984.48,
+   "fees_hip3_deployer": 10829292.26,
+   "fees_hyperevm_gas": 2198959.37,
+   "fees_hyperevm_base": 325681.75,
+   "fees_hyperevm_priority": 1873277.5899999999,
+   "fees_builder": 16196016.04,
+   "fees_auction": 437622.98000000004,
+   "fees_auction_perp": 1098868.8800000001,
+   "fees_priority": 2939577.37,
+   "fees_priority_order": 1554188.99,
+   "fees_priority_gossip": 1385388.34,
+   "hypercore_buybacks": 140660938.84,
+   "hyperevm_burn": 1782394.8399999999,
+   "auction_burn": 437622.98000000004,
+   "take_rate": 2.1727,
+   "unpriced_spot_fee_token_amount": 0.0,
+   "days": 91.0
+  }
+ },
+ "perp_volume_q": {
+  "2Q25": 1339447051974.3008,
+  "3Q25": 2087237542673.5535,
+  "4Q25": 1527887848549.4707,
+  "1Q26": 1289989131636.9155,
+  "2Q26": 1324709664257.7285
+ },
+ "hip3_volume_q": {
+  "4Q25": 13459722520.750002,
+  "1Q26": 133635995806.76,
+  "2Q26": 213338911698.97995
+ },
+ "hip3_volume_monthly_2026": {
+  "2026-01": 24859140365.42,
+  "2026-02": 40227541315.619995,
+  "2026-03": 68549314125.72,
+  "2026-04": 65297415588.96,
+  "2026-05": 62534378401.91999,
+  "2026-06": 85507117708.1,
+  "2026-07": 44446459075.85
+ },
+ "oi_q": {
+  "2Q25": {
+   "avg": 5595967919.521765,
+   "peak": 9310467417.954632,
+   "peak_date": "2025-05-23",
+   "eoq": 7573462127.935406,
+   "eoq_date": "2025-06-30"
+  },
+  "3Q25": {
+   "avg": 12482193974.20659,
+   "peak": 15322767588.103441,
+   "peak_date": "2025-07-28",
+   "eoq": 12785527899.004396,
+   "eoq_date": "2025-09-30"
+  },
+  "4Q25": {
+   "avg": 8185945090.876157,
+   "peak": 15145178181.733797,
+   "peak_date": "2025-10-06",
+   "eoq": 7691507310.557004,
+   "eoq_date": "2025-12-31"
+  },
+  "1Q26": {
+   "avg": 6922469265.214205,
+   "peak": 10054454462.601158,
+   "peak_date": "2026-01-17",
+   "eoq": 7239424573.617704,
+   "eoq_date": "2026-03-31"
+  },
+  "2Q26": {
+   "avg": 8675934040.455,
+   "peak": 10400682685.535435,
+   "peak_date": "2026-06-01",
+   "eoq": 9312013031.855804,
+   "eoq_date": "2026-06-30"
+  }
+ },
+ "hip3_oi_eoq": {
+  "4Q25": {
+   "date": "2025-12-31",
+   "oi": 284991691.41
+  },
+  "1Q26": {
+   "date": "2026-03-31",
+   "oi": 2102430961.29
+  },
+  "2Q26": {
+   "date": "2026-06-30",
+   "oi": 3093769149.71
+  }
+ },
+ "dau_avg_q": {
+  "2Q25": 23523.91208791209,
+  "3Q25": 42572.184782608696,
+  "4Q25": 43614.5,
+  "1Q26": 45316.92222222222,
+  "2Q26": 54293.56043956044
+ },
+ "net_inflow_q": {
+  "2Q25": 0.0,
+  "3Q25": 0.0,
+  "4Q25": 0.0,
+  "1Q26": 0.0,
+  "2Q26": 0.0
+ },
+ "buybacks_q": {
+  "2Q25": {
+   "hype": 7100912.010000002,
+   "usd": 174795222.90960008
+  },
+  "3Q25": {
+   "hype": 6219840.74,
+   "usd": 280878171.84458995
+  },
+  "4Q25": {
+   "hype": 6069597.690000001,
+   "usd": 221665338.06402004
+  },
+  "1Q26": {
+   "hype": 4939842.430000001,
+   "usd": 147722445.87999997
+  },
+  "2Q26": {
+   "hype": 2769366.0799999987,
+   "usd": 140660938.84000003
+  }
+ },
+ "af_holdings_sample": "{'timestamp': 1784116800, 'datetime': '2026-07-15 12:00:00', 'balance': 45848906.02473923}",
+ "af_holdings_eoq": {},
+ "hype_px_q": {
+  "2Q25": {
+   "open": 13.46,
+   "close": 39.92581596187139,
+   "open_d": "2025-04-01",
+   "close_d": "2025-06-30",
+   "ret": 196.6256757939925,
+   "high": 44.44,
+   "high_d": "2025-06-16"
+  },
+  "3Q25": {
+   "open": 39.22195596416152,
+   "close": 44.84,
+   "open_d": "2025-07-01",
+   "close_d": "2025-09-30",
+   "ret": 14.323722256411386,
+   "high": 57.37,
+   "high_d": "2025-09-18"
+  },
+  "4Q25": {
+   "open": 47.42,
+   "close": 25.79834611751053,
+   "open_d": "2025-10-01",
+   "close_d": "2025-12-31",
+   "ret": -45.59606470368931,
+   "high": 49.52,
+   "high_d": "2025-10-02"
+  },
+  "1Q26": {
+   "open": 25.685020390289694,
+   "close": 35.97819133261421,
+   "open_d": "2026-01-01",
+   "close_d": "2026-03-31",
+   "ret": 40.07460685612647,
+   "high": 41.20212919639547,
+   "high_d": "2026-03-17"
+  },
+  "2Q26": {
+   "open": 36.957628627562144,
+   "close": 64.67246013860391,
+   "open_d": "2026-04-01",
+   "close_d": "2026-06-30",
+   "ret": 74.9908274427886,
+   "high": 76.53294280653911,
+   "high_d": "2026-06-16"
+  }
+ },
+ "btc_px_q": {
+  "2Q25": {
+   "open": 83589,
+   "close": 107650,
+   "open_d": "2025-04-01",
+   "close_d": "2025-06-30",
+   "ret": 28.78488796372729,
+   "high": 111431.87800937732,
+   "high_d": "2025-05-22"
+  },
+  "3Q25": {
+   "open": 106454,
+   "close": 112918,
+   "open_d": "2025-07-01",
+   "close_d": "2025-09-30",
+   "ret": 6.072106261859589,
+   "high": 121888,
+   "high_d": "2025-07-14"
+  },
+  "4Q25": {
+   "open": 116564,
+   "close": 88696.54632120761,
+   "open_d": "2025-10-01",
+   "close_d": "2025-12-31",
+   "ret": -23.90742740365155,
+   "high": 124885.12029989217,
+   "high_d": "2025-10-07"
+  },
+  "1Q26": {
+   "open": 87808.82697017294,
+   "close": 66663.02492484513,
+   "open_d": "2026-01-01",
+   "close_d": "2026-03-31",
+   "ret": -24.0816359527393,
+   "high": 96874.49781638767,
+   "high_d": "2026-01-15"
+  },
+  "2Q26": {
+   "open": 68209.42169300176,
+   "close": 58411.30689847991,
+   "open_d": "2026-04-01",
+   "close_d": "2026-06-30",
+   "ret": -14.364752773629109,
+   "high": 82083.25648069884,
+   "high_d": "2026-05-06"
+  }
+ },
+ "asxn_hype_px_sample": "{'date': '2026-07-16', 'open': 66.86, 'high': 67.217, 'low': 66.52, 'close': 66.614, 'volume': 114596.37, 'trades': 5440}",
+ "spot_volume_q": {
+  "2Q25": 22001354657.0,
+  "3Q25": 54211796704.0,
+  "4Q25": 25487998709.0,
+  "1Q26": 13992727627.0,
+  "2Q26": 13590151105.0
+ },
+ "stablecoins_sample": "{'date': '2026-07-16T00:00:00', 'total_supply': 5909825095.49, 'stablecoins': [{'stablecoin': 'USDC', 'supply': 5727676798.54, 'market_share_pct': 96.92}, {'stablecoin': 'USDH', 'supply': 20761921.72, 'market_share_pct': 0.35}, {'stablecoin': 'USDHL', 'supply': 1016919.36, 'market_share_pct': 0.02},",
+ "stablecoins_1Q26": {
+  "date": "2026-03-31T00:00:00",
+  "total_supply": 1350643603.8,
+  "stablecoins": [
+   {
+    "stablecoin": "USDC",
+    "supply": 1014723842.34,
+    "market_share_pct": 75.13
+   },
+   {
+    "stablecoin": "USDH",
+    "supply": 90809713.61,
+    "market_share_pct": 6.72
+   },
+   {
+    "stablecoin": "USDHL",
+    "supply": 1044553.16,
+    "market_share_pct": 0.08
+   },
+   {
+    "stablecoin": "USDT0",
+    "supply": 163500522.26,
+    "market_share_pct": 12.11
+   },
+   {
+    "stablecoin": "USDXL",
+    "supply": 1211955.81,
+    "market_share_pct": 0.09
+   },
+   {
+    "stablecoin": "USDe",
+    "supply": 60642794.64,
+    "market_share_pct": 4.49
+   },
+   {
+    "stablecoin": "USH",
+    "supply": 32932.1,
+    "market_share_pct": 0.0
+   },
+   {
+    "stablecoin": "USR",
+    "supply": 57320.43,
+    "market_share_pct": 0.0
+   },
+   {
+    "stablecoin": "feUSD",
+    "supply": 14999904.76,
+    "market_share_pct": 1.11
+   },
+   {
+    "stablecoin": "thBILL",
+    "supply": 3620064.68,
+    "market_share_pct": 0.27
+   }
+  ]
+ },
+ "stablecoins_2Q26": {
+  "date": "2026-06-30T00:00:00",
+  "total_supply": 5584753627.01,
+  "stablecoins": [
+   {
+    "stablecoin": "USDC",
+    "supply": 5366718428.76,
+    "market_share_pct": 96.1
+   },
+   {
+    "stablecoin": "USDH",
+    "supply": 22623156.28,
+    "market_share_pct": 0.41
+   },
+   {
+    "stablecoin": "USDHL",
+    "supply": 1041778.94,
+    "market_share_pct": 0.02
+   },
+   {
+    "stablecoin": "USDT0",
+    "supply": 157399075.35,
+    "market_share_pct": 2.82
+   },
+   {
+    "stablecoin": "USDXL",
+    "supply": 178912.79,
+    "market_share_pct": 0.0
+   },
+   {
+    "stablecoin": "USDe",
+    "supply": 22917043.66,
+    "market_share_pct": 0.41
+   },
+   {
+    "stablecoin": "USH",
+    "supply": 27067.58,
+    "market_share_pct": 0.0
+   },
+   {
+    "stablecoin": "USR",
+    "supply": 21404.32,
+    "market_share_pct": 0.0
+   },
+   {
+    "stablecoin": "feUSD",
+    "supply": 11882655.84,
+    "market_share_pct": 0.21
+   },
+   {
+    "stablecoin": "thBILL",
+    "supply": 1944103.47,
+    "market_share_pct": 0.03
+   }
+  ]
+ },
+ "chain_tvl_eoq": {
+  "2Q25": {
+   "date": "2025-06-30",
+   "tvl": 1805665627
+  },
+  "3Q25": {
+   "date": "2025-09-30",
+   "tvl": 2202531184
+  },
+  "4Q25": {
+   "date": "2025-12-31",
+   "tvl": 1453882431
+  },
+  "1Q26": {
+   "date": "2026-03-31",
+   "tvl": 1689655223
+  },
+  "2Q26": {
+   "date": "2026-06-30",
+   "tvl": 1441479148
+  }
+ },
+ "protocol_tvl_keys": [
+  [
+   "Hyperliquid L1",
+   5716641596
+  ],
+  [
+   "Arbitrum",
+   390015243
+  ]
+ ],
+ "protocol_tvl_eoq": {
+  "2Q25": {
+   "date": "2025-06-30",
+   "tvl": 3709523714
+  },
+  "3Q25": {
+   "date": "2025-09-30",
+   "tvl": 5838812801
+  },
+  "4Q25": {
+   "date": "2025-12-31",
+   "tvl": 4148573483
+  },
+  "1Q26": {
+   "date": "2026-03-31",
+   "tvl": 4898750445
+  },
+  "2Q26": {
+   "date": "2026-06-30",
+   "tvl": 5723858083
+  }
+ },
+ "etf_flows_cum_to_q2end_musd": 308.69620000000003,
+ "etf_units_q2end": {
+  "perFund": {
+   "HYPG": {
+    "nav": 23.14,
+    "units": 5490000
+   },
+   "THYP": {
+    "units": 1880000,
+    "nav": 37.63
+   },
+   "BHYP": {
+    "nav": 36.53,
+    "units": 3570000
+   }
+  },
+  "ts": 1782777600000.0,
+  "date": "2026-06-30"
+ },
+ "etf_summary_feed": {
+  "cumNetInflows": 337.8133,
+  "cumOutflows": 15.5171,
+  "avgDailyFlow": 7.3249,
+  "totalHypeUnitsHeld": 5151274.7405,
+  "maxDaily": 112.643,
+  "daysListed": 44,
+  "minDaily": -5.7,
+  "netFlow": 322.2962,
+  "avgCostBasisUsdPerHype": 62.5663,
+  "totalAumUsd": 344736764.3
+ },
+ "evm_sample": "{'date': '2026-07-15T00:00:00Z', 'transaction_count': 358924, 'successful_transactions': 296849, 'success_rate_pct': 82.71, 'fees_hype_total': 184.5822630983864, 'fees_hype_base': 13.086998755244528, 'fees_hype_priority': 171.49526434329275, 'base_fe",
+ "evm_txns_q": {
+  "2Q25": 22529005.0,
+  "3Q25": 34392087.0,
+  "4Q25": 39267337.0,
+  "1Q26": 26285870.0,
+  "2Q26": 31090342.0
+ },
+ "staking_sample": "{'name': 'cp0x by STAKR.space', 'address': '0xc56d0c8ae0c387b439226387c54dbedb0aededfb', 'stake': 69.9230112, 'isActive': False, 'commission': 0.0}",
+ "lst_sample": "{'date': '2026-07-16T00:00:00', 'total_supply_tokens': 17235734.59, 'total_supply_usd': 1144343094.94, 'individual_tokens': [{'name': 'kHYPE', 'amount_tokens': 13817463.86, 'amount_usd': 917391670.91, 'market_share_tokens_pct': 80.17, 'market_share_u",
+ "hip4_q2": {
+  "days": 59,
+  "volume": 433187115.6988718,
+  "fees": 2505.1613179601,
+  "first": "20260503",
+  "peak_traders": 7028
+ },
+ "cex_hist_sample": "{'timestamp': '2026-07-16 00:30:00', 'binance_futures': 0.0, 'bybit': 0.0, 'coinbase_international_derivatives': 0.0, 'crypto_com_futures': 0.0, 'deribit': 0.0, 'hyperliquid': 0.0, 'kraken_futures': 0.0, 'okex_swap': 22019712551.693165}",
+ "hip3_traders_sample": "{'date': '2026-07-15', 'timestamp': '2026-07-15T00:00:00', 'total_unique_traders': 48086, 'dex_traders': {'hyna': 257, 'xyz': 47603, 'para': 23, 'mkts': 203}, 'cumulative_traders': 6120665}",
+ "hip3_traders_eoq": {
+  "4Q25": {
+   "date": "2025-12-31",
+   "timestamp": "2025-12-31T00:00:00",
+   "total_unique_traders": 7741,
+   "dex_traders": {
+    "vntl": 436,
+    "hyna": 954,
+    "xyz": 6072,
+    "flx": 279
+   },
+   "cumulative_traders": 356501
+  },
+  "1Q26": {
+   "date": "2026-03-31",
+   "timestamp": "2026-03-31T00:00:00",
+   "total_unique_traders": 40768,
+   "dex_traders": {
+    "flx": 479,
+    "xyz": 36885,
+    "cash": 1312,
+    "hyna": 1006,
+    "vntl": 282,
+    "km": 804
+   },
+   "cumulative_traders": 2461975
+  },
+  "2Q26": {
+   "date": "2026-06-30",
+   "timestamp": "2026-06-30T00:00:00",
+   "total_unique_traders": 39369,
+   "dex_traders": {
+    "hyna": 292,
+    "xyz": 38465,
+    "cash": 583,
+    "para": 29
+   },
+   "cumulative_traders": 5557602
+  }
+ }
+}

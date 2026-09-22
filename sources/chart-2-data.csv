@@ -1,0 +1,9 @@
+month,volume_from_2026_listings_krw_trillions,share_of_total_pct,is_partial
+2026-01,3.64,5.0,false
+2026-02,4.90,6.5,false
+2026-03,3.45,6.5,false
+2026-04,8.53,17.0,false
+2026-05,6.90,14.9,false
+2026-06,6.73,15.1,false
+2026-07,5.32,19.6,false
+2026-08,3.65,23.7,true

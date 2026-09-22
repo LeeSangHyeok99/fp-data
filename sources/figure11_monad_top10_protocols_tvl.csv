@@ -1,0 +1,11 @@
+﻿rank,protocol,sector,monad_tvl_usd,retrieved_date,slug
+1,Aave V3,Lending,327621178.06122357,2026-09-15,aave-v3
+2,Euler V2,Lending,248460916.11225277,2026-09-15,euler-v2
+3,Pendle V2,Yield,211610036.4595863,2026-09-15,pendle-v2
+4,Morpho Blue,Lending,182084387.25883204,2026-09-15,morpho-blue
+5,Curvance,Lending,139841537.3477239,2026-09-15,curvance
+6,Valos,RWA,105275849.12724894,2026-09-15,valos
+7,Reservoir Protocol,CDP,55466828.096226096,2026-09-15,reservoir-protocol
+8,Theo Network thBill,RWA,33795899.767602816,2026-09-15,theo-network-thbill
+9,Uniswap,Dexs,31204439.259039797,2026-09-15,uniswap
+10,Upshift,Onchain Capital Allocator,31156072.556570377,2026-09-15,upshift

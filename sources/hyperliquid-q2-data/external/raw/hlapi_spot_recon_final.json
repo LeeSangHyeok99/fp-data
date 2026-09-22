@@ -1,0 +1,13 @@
+{
+ "2Q25": 22158000000.0,
+ "4Q25_control": {
+  "recon": 28582000000.0,
+  "hleco": 28720000000.0
+ },
+ "2Q26_control": {
+  "recon": 16229000000.0,
+  "hleco": 16180000000.0
+ },
+ "method": "official API daily candles, all spot pairs, notional=sum(v*c), 4 retries, two-run stability confirmed identical",
+ "runs_identical": true
+}

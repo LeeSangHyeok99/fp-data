@@ -1,0 +1,40 @@
+{
+  "name": "hrc",
+  "description": "HRC(Hashed Research Center) 다크 테마",
+
+  "background": "transparent",
+  "text": {
+    "primary": "#ffffff",
+    "secondary": "#747474"
+  },
+
+  "grid": {
+    "color": "#787b86",
+    "alpha": 0.5,
+    "linestyle": "dashed (3.7, 1.6)",
+    "linewidth": 1.0
+  },
+
+  "chart_colors": {
+    "series": [
+      "#00d4ff",
+      "#7c3aed",
+      "#10b981",
+      "#f59e0b",
+      "#ec4899",
+      "#06b6d4"
+    ],
+    "positive": "#10b981",
+    "negative": "#ef4444",
+    "highlight": "#00d4ff"
+  },
+
+  "axis": {
+    "color": "#ffffff",
+    "tick_color": "#747474"
+  },
+
+  "brand_colors": {
+    "walrus": "#97F0E5"
+  }
+}
