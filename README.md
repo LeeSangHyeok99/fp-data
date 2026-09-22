@@ -1,5 +1,4 @@
 # fp-data
-
 Four Pillars data-visualization workspace containing chart scripts, source
 datasets, reusable Claude agents, and a browsable chart archive.
 
