@@ -1,0 +1,5 @@
+metric,protocol,share_pct,value,unit
+Active Stake Share,SSV,16.5,7110000,ETH
+Active Stake Share,Obol,0.60,256551,ETH
+Validator Key Share,SSV,10.4,94679,Validators
+Validator Key Share,Obol,0.88,8014,Validators

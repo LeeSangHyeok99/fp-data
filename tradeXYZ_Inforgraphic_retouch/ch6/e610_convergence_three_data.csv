@@ -1,4 +1,0 @@
-market,session_minutes,initial_basis_bps,final_basis_bps,t_to_100bps_min,t_to_50bps_min,share_min_below_100bps,d2_mean_abs_bps,d2_median_abs_bps
-CBRS,181,-214.8,-13.8,36,57,0.89,9.34,7.27
-QNT,146,344.9,-14.9,22,127,0.795,16.03,13.5
-SPCX,254,219.7,31.6,7,9,0.98,,

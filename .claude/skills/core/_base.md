@@ -78,7 +78,7 @@ def validate_request(request: dict, schema: dict) -> ValidationResult:
 
 | 타입 | 경로 | 예시 |
 |------|------|------|
-| 소스 데이터 (원본 CSV/JSON) | `sources/` | `sources/hip3_daily_volume.csv` |
+| 소스 데이터 (CSV/JSON) | `outputs/data/` | `outputs/data/hip3_daily_volume.csv` |
 | 에이전트 가공 데이터 | `outputs/data/` | `outputs/data/tvl_processed.csv` |
 | 차트 이미지 | `outputs/charts/{topic}/` | `outputs/charts/hyperliquid/volume/perp_volume.png` |
 | 검증 결과 | `outputs/validation/` | `outputs/validation/tvl_validated.json` |

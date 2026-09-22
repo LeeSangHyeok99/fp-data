@@ -1,4 +1,0 @@
-market,company,oi_cap,initial_reference,discovery_bound,launch_date_utc,conversion_date_utc,funding_multiplier_pre_conversion,funding_multiplier_post_conversion
-CBRS,Cerebras,$100M,$175,±25%,2026-05-01,2026-05-14,0.005x,0.5x
-QNT,Quantinuum,$20M,$75,±25%,2026-05-28,2026-06-04,0.005x,0.5x
-SPCX,SpaceX,$150M,$150,±20%,2026-05-17,2026-06-12,0.005x,0.5x

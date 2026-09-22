@@ -5,7 +5,7 @@
   },
 
   "paths": {
-    "source": "sources",
+    "source": "outputs/data",
     "data": "outputs/data",
     "charts": "outputs/charts",
     "validation": "outputs/validation",

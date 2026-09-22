@@ -1,0 +1,32 @@
+<svg width="371.844" height="479" viewBox="0 0 371.844 479" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="legend">
+<rect x="0" y="0" width="24" height="24" rx="6" fill="#14356B"/>
+<text x="42" y="21.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">US Treasury Debt</text>
+<rect x="0" y="35" width="24" height="24" rx="6" fill="#C9A13B"/>
+<text x="42" y="56.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Commodities</text>
+<rect x="0" y="70" width="24" height="24" rx="6" fill="#4A7FA8"/>
+<text x="42" y="91.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Active Strategies</text>
+<rect x="0" y="105" width="24" height="24" rx="6" fill="#F4402A"/>
+<text x="42" y="126.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Stocks</text>
+<rect x="0" y="140" width="24" height="24" rx="6" fill="#5F7F2B"/>
+<text x="42" y="161.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Asset-Backed Credit</text>
+<rect x="0" y="175" width="24" height="24" rx="6" fill="#C2185B"/>
+<text x="42" y="196.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Specialty Finance</text>
+<rect x="0" y="210" width="24" height="24" rx="6" fill="#7B3FE4"/>
+<text x="42" y="231.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Corporate Credit</text>
+<rect x="0" y="245" width="24" height="24" rx="6" fill="#F5C518"/>
+<text x="42" y="266.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Private Equity</text>
+<rect x="0" y="280" width="24" height="24" rx="6" fill="#A9C2D9"/>
+<text x="42" y="301.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">non-US Government Debt</text>
+<rect x="0" y="315" width="24" height="24" rx="6" fill="#A8E0A0"/>
+<text x="42" y="336.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Venture Capital</text>
+<rect x="0" y="350" width="24" height="24" rx="6" fill="#1A2FF0"/>
+<text x="42" y="371.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Diversified Credit</text>
+<rect x="0" y="385" width="24" height="24" rx="6" fill="#B8551E"/>
+<text x="42" y="406.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Real Estate</text>
+<rect x="0" y="420" width="24" height="24" rx="6" fill="#F4512E"/>
+<text x="42" y="441.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Public Equity</text>
+<rect x="0" y="455" width="24" height="24" rx="6" fill="#14803C"/>
+<text x="42" y="476.7969" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500" letter-spacing="0em" style="white-space: pre" xml:space="preserve">Municipal Credit</text>
+</g>
+</svg>

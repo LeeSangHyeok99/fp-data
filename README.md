@@ -1,23 +1,14 @@
 # fp-data
-Four Pillars data-visualization workspace containing chart scripts, source
-datasets, reusable Claude agents, and a browsable chart archive.
 
-## Repository map
+차트 생성 에이전트와 생성 결과, 차트 데이터만 보관하는 저장소입니다.
 
-| Path | Contents |
+| 경로 | 내용 |
 |---|---|
-| `chart-library/by-type/` | Generated charts copied and grouped by visual type |
-| `chart-library/manifest.csv` | Source path, inferred type, matching script, size, and SHA-256 |
-| `charts/` | Python chart-generation scripts |
-| `scripts/` | Data collection and transformation utilities |
-| `sources/` | Source datasets and captured API responses |
-| `.claude/` | Chart and validation agents, skills, configuration, and docs |
+| `.claude/agents/chart.agent.md` | 차트 생성 컨트롤러 |
+| `.claude/skills/` | 차트, 데이터, 디자인, 출력 스킬 |
+| `.claude/config/` | 경로와 데이터 소스 설정 |
+| `outputs/charts/` | 생성된 PNG, SVG 차트와 `by-type/` 유형별 복사본 |
+| `outputs/data/` | 차트 생성에 사용한 CSV, JSON 데이터 |
+| `assets/font/` | 렌더링용 폰트 |
 
-Rebuild the archive from local generated outputs with:
-
-```bash
-python3 scripts/organize_chart_library.py
-```
-
-Newsletter week folders and newsletter-only agents are intentionally excluded
-from this repository.
+뉴스레터 전용 에이전트, 스킬, 주차별 차트는 포함하지 않습니다.

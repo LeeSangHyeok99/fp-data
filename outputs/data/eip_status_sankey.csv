@@ -1,0 +1,13 @@
+source,target,value
+Stagnant,Stagnant,399
+Draft,Draft,354
+Final,Final,280
+Review,Review,81
+Withdrawn,Withdrawn,44
+Last Call,Last Call,18
+Draft,Review,17
+New,Draft,10
+Stagnant,Draft,6
+Living,Living,4
+Last Call,Final,1
+Review,Last Call,1

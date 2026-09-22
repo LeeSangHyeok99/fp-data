@@ -1,0 +1,15 @@
+chart,client,pct
+Ethereum,Lighthouse,51.63
+Ethereum,Prysm,24.01
+Ethereum,Teku,13.59
+Ethereum,Caplin,5.67
+Ethereum,Lodestar,2.85
+Ethereum,Other,2.25
+Lido,Lighthouse,30.56
+Lido,Vouch,25.28
+Lido,Teku,16.96
+Lido,Prysm,13.60
+Lido,Nimbus,6.57
+Lido,Lodestar,2.60
+Lido,Grandine,2.30
+Lido,Caplin,2.13

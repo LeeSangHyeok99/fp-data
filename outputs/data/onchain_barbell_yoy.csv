@@ -1,0 +1,28 @@
+group,label,pct,x,pos
+Speculative,Kalshi Volume,4476,0.18,right
+Speculative,fomo Revenue,3397,0.62,right
+Speculative,Polymarket Volume,1072,0.06,right
+Speculative,Kalshi OI,834,0.46,right
+Speculative,RWA Perp Volume,626,0.68,right
+Speculative,pump.fun Graduation,275,0.10,right
+Speculative,Polymarket OI,168,0.50,right
+Speculative,Perp DEXs OI,9,0.14,above
+Speculative,pump.fun Revenue,-6,0.58,below
+Onchain Native,BTC Price,-43,0.06,above
+Onchain Native,Crypto ETF AUM,-45,0.40,below
+Onchain Native,DeFi TVL,-48,0.54,above
+Onchain Native,ETH Price,-52,0.76,below
+Onchain Native,LST TVL,-52,0.96,above
+Onchain Native,Restaking TVL,-69,0.08,above
+Onchain Native,NFT Volume,-71,0.50,below
+Onchain Native,CEX Spot Volume,-71,0.84,below
+Onchain Native,Crypto Deal Count,-75,0.22,below
+Onchain Native,DEX Spot Volume,-79,0.66,below
+TradFi-linked,Stocks (RWA),498,0.42,above
+TradFi-linked,Private Credit (RWA),170,0.16,above
+TradFi-linked,Commodities (RWA),164,0.66,above
+TradFi-linked,U.S. T-Bills (RWA),145,0.44,below
+TradFi-linked,Stablecoin Card Payments,120,0.84,below
+TradFi-linked,Total RWA Value,105,0.10,below
+TradFi-linked,Stablecoin MC,13,0.30,right
+TradFi-linked,Vault TVL,-13,0.70,below

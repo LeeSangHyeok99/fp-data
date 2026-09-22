@@ -1,27 +1,7 @@
-# Claude Agent System
+# Chart Agent
 
-This directory contains the repository-local agents, reusable skills, shared
-configuration, and operating notes for the chart production workflow.
+`agents/chart.agent.md`가 차트 생성 흐름을 담당합니다. 세부 규칙은
+`skills/chart`, `skills/data`, `skills/design`, `skills/output`에 나뉘어 있으며,
+기본 입출력 경로는 `config/settings.json`에서 관리합니다.
 
-## Start here
-
-| Path | Purpose |
-|---|---|
-| `agents/` | Thin controllers that route chart creation and validation work |
-| `skills/` | Reusable chart, data, design, and output instructions |
-| `config/` | Project paths, defaults, and approved data-source definitions |
-| `docs/ARCHITECTURE.md` | System structure and data flow |
-| `memory/` | Durable project-specific feedback |
-
-## Skill catalog
-
-| Skill | Responsibility |
-|---|---|
-| `chart` | Line, area, bar, stacked, pie, and donut chart rules |
-| `data` | Source collection, parsing, and two-source validation |
-| `design` | Four Pillars and HRC visual systems |
-| `output` | PNG, SVG, HTML, CSV, and JSON export contracts |
-
-Agent definitions should coordinate work and delegate detailed rules to skills.
-New reusable behavior belongs in `skills/<name>/SKILL.md`; project-wide paths
-and defaults belong in `config/settings.json`.
+뉴스레터 조립과 인포그래픽 전용 구성은 이 저장소의 범위가 아닙니다.
