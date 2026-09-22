@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080" fill="none">
+<g id="Inforgraphic Template for Graph_H:1080px" clip-path="url(#clip0_26896_2821)">
+<rect width="1920" height="1080" fill="#141414" />
+<g id="Bg Image">
+<path id="Vector" d="M720.117 -55.9412C720.117 -254.796 558.913 -416 360.058 -416C161.204 -416 6.66497e-06 -254.796 4.29365e-06 -55.9413C1.92233e-06 142.914 161.204 304.117 360.058 304.117C558.913 304.117 720.117 142.914 720.117 -55.9412Z" fill="url(#paint0_linear_26896_2821)" fill-opacity="0.06" />
+<path id="Vector_2" d="M1560.18 304.117C1759.03 304.117 1920.23 142.913 1920.23 -55.9414C1920.23 -254.796 1759.03 -416 1560.18 -416C1361.32 -416 1200.12 -254.796 1200.12 -55.9416C1200.12 142.913 1361.32 304.117 1560.18 304.117Z" fill="url(#paint1_linear_26896_2821)" fill-opacity="0.06" />
+<path id="Vector_3" d="M360.059 776.117C161.204 776.117 0.000231967 937.321 0.000214583 1136.18C0.000197198 1335.03 161.204 1496.23 360.059 1496.23C558.914 1496.23 720.117 1335.03 720.117 1136.18C720.117 937.321 558.914 776.117 360.059 776.117Z" fill="url(#paint2_linear_26896_2821)" fill-opacity="0.06" />
+<path id="Vector_4" d="M1200.12 1136.18C1200.12 1335.03 1361.32 1496.23 1560.18 1496.23C1759.03 1496.23 1920.23 1335.03 1920.23 1136.18C1920.23 937.321 1759.03 776.117 1560.18 776.117C1361.32 776.117 1200.12 937.321 1200.12 1136.18Z" fill="url(#paint3_linear_26896_2821)" fill-opacity="0.06" />
+<g id="FP Logo">
+<g id="Group 2789">
+<g id="Group 2781">
+<path id="Vector_5" d="M190.921 600.944C204.513 600.944 215.53 589.979 215.53 576.453C215.53 562.928 204.513 551.963 190.921 551.963C177.33 551.963 166.312 562.928 166.312 576.453C166.312 589.979 177.33 600.944 190.921 600.944Z" fill="url(#paint4_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_6" d="M272.914 600.635C286.505 600.635 297.523 589.67 297.523 576.145C297.523 562.619 286.505 551.654 272.914 551.654C259.322 551.654 248.305 562.619 248.305 576.145C248.305 589.67 259.322 600.635 272.914 600.635Z" fill="url(#paint5_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_7" d="M190.609 519.344C204.2 519.344 215.218 508.379 215.218 494.854C215.218 481.328 204.2 470.363 190.609 470.363C177.018 470.363 166 481.328 166 494.854C166 508.379 177.018 519.344 190.609 519.344Z" fill="url(#paint6_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_8" d="M272.603 519.035C286.194 519.035 297.212 508.071 297.212 494.545C297.212 481.019 286.194 470.055 272.603 470.055C259.012 470.055 247.994 481.019 247.994 494.545C247.994 508.071 259.012 519.035 272.603 519.035Z" fill="url(#paint7_linear_26896_2821)" fill-opacity="0.5" />
+</g>
+<path id="Vector_9" d="M383.137 607.531H407.952V545.174H463.167V525.623H407.952V483.433H475.575V463.471H383.137V607.531Z" fill="url(#paint8_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_10" d="M600.175 470.467C589.49 464.156 577.117 461 563.054 461C548.992 461 536.446 464.156 525.831 470.467C515.215 476.778 506.909 485.525 500.912 496.706C494.915 507.888 491.916 520.82 491.916 535.5C491.916 550.18 494.915 563.317 500.912 574.499C506.909 585.681 515.215 594.393 525.831 600.636C536.446 606.879 548.854 610 563.054 610C577.255 610 589.49 606.879 600.175 600.636C610.859 594.393 619.2 585.681 625.197 574.499C631.194 563.317 634.193 550.318 634.193 535.5C634.193 520.682 631.194 507.888 625.197 496.706C619.2 485.525 610.859 476.778 600.175 470.467ZM603.277 563.489C599.485 571.309 594.109 577.312 587.146 581.497C580.184 585.681 572.154 587.773 563.054 587.773C553.955 587.773 545.752 585.681 538.859 581.497C531.966 577.312 526.624 571.309 522.832 563.489C519.041 555.669 517.145 546.339 517.145 535.5C517.145 524.661 519.041 515.331 522.832 507.511C526.624 499.691 531.966 493.688 538.859 489.503C545.752 485.319 553.817 483.227 563.054 483.227C572.291 483.227 580.184 485.319 587.146 489.503C594.109 493.688 599.485 499.691 603.277 507.511C607.068 515.331 608.964 524.661 608.964 535.5C608.964 546.339 607.068 555.669 603.277 563.489Z" fill="url(#paint9_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_11" d="M745.656 552.994C745.656 560.815 744.346 567.263 741.727 572.34C739.107 577.416 735.454 581.223 730.767 583.761C726.079 586.3 720.427 587.569 713.809 587.569C707.192 587.569 701.677 586.3 696.852 583.761C692.026 581.223 688.338 577.416 685.788 572.34C683.237 567.263 681.962 560.815 681.962 552.994V463.471H657.146V552.788C657.146 565.685 659.663 576.387 664.695 584.893C669.727 593.4 676.482 599.711 684.961 603.827C693.44 607.943 702.918 610.001 713.396 610.001C723.873 610.001 733.42 607.943 742.037 603.827C750.654 599.711 757.547 593.4 762.717 584.893C767.887 576.387 770.472 565.685 770.472 552.788V463.471H745.656V552.994Z" fill="url(#paint10_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_12" d="M878.727 544.351C886.241 540.372 891.79 535.089 895.375 528.504C898.959 521.918 900.751 514.784 900.751 507.101C900.751 498.868 898.925 491.494 895.271 484.977C891.618 478.46 886.069 473.246 878.624 469.336C871.179 465.426 861.667 463.471 850.086 463.471H798.18V607.531H822.995V550.319H846.329L873.695 607.531H902.233L872.007 547.163C874.419 546.374 876.694 545.448 878.762 544.351H878.727ZM822.995 484.051H848.432C857.806 484.051 864.631 486.212 868.905 490.534C873.178 494.855 875.315 500.583 875.315 507.718C875.315 514.852 873.144 520.855 868.801 525.314C864.458 529.773 857.737 532.002 848.638 532.002H822.995V484.051Z" fill="url(#paint11_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_13" d="M1057.81 469.336C1050.16 465.426 1040.55 463.471 1028.97 463.471H976.854V607.531H1001.67V551.759H1028.97C1040.82 551.759 1050.54 549.701 1058.13 545.585C1065.71 541.469 1071.29 536.118 1074.88 529.533C1078.46 522.947 1080.25 515.676 1080.25 507.718C1080.25 499.211 1078.43 491.665 1074.77 485.08C1071.12 478.494 1065.47 473.246 1057.81 469.336ZM1048.61 525.108C1044.34 529.43 1037.38 531.591 1027.73 531.591H1001.67V483.639H1027.73C1037.38 483.639 1044.34 485.732 1048.61 489.916C1052.89 494.101 1055.02 499.966 1055.02 507.512C1055.02 515.058 1052.89 520.786 1048.61 525.108Z" fill="url(#paint12_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_14" d="M1126.58 463.471H1101.76V607.531H1126.58V463.471Z" fill="url(#paint13_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_15" d="M1180.55 463.471H1155.73V607.531H1245.28V588.186H1180.55V463.471Z" fill="url(#paint14_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_16" d="M1294.08 463.471H1269.27V607.531H1358.81V588.186H1294.08V463.471Z" fill="url(#paint15_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_17" d="M1426.23 463.471L1373.08 607.531H1399.13L1411.13 573.574H1468.58L1480.58 607.531H1506.84L1453.94 463.471H1426.23ZM1418.02 554.023L1439.84 492.283L1461.66 554.023H1418.02Z" fill="url(#paint16_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_18" d="M1607.27 544.351C1614.79 540.372 1620.34 535.089 1623.92 528.504C1627.51 521.918 1629.3 514.784 1629.3 507.101C1629.3 498.868 1627.47 491.494 1623.82 484.977C1620.16 478.46 1614.62 473.246 1607.17 469.336C1599.73 465.426 1590.21 463.471 1578.63 463.471H1526.73V607.531H1551.54V550.319H1574.88L1602.24 607.531H1630.78L1600.55 547.163C1602.97 546.374 1605.24 545.448 1607.31 544.351H1607.27ZM1551.54 484.051H1576.98C1586.35 484.051 1593.18 486.212 1597.45 490.534C1601.73 494.855 1603.86 500.583 1603.86 507.718C1603.86 514.852 1601.69 520.855 1597.35 525.314C1593.01 529.773 1586.28 532.002 1577.19 532.002H1551.54V484.051Z" fill="url(#paint17_linear_26896_2821)" fill-opacity="0.5" />
+<path id="Vector_19" d="M1748.83 547.231C1745.38 541.88 1740.73 537.524 1734.87 534.162C1729.01 530.801 1722.5 527.954 1715.33 525.622C1710.09 523.838 1705.3 522.192 1700.96 520.682C1696.61 519.173 1692.79 517.561 1689.48 515.846C1686.17 514.131 1683.62 512.004 1681.83 509.466C1680.04 506.928 1679.14 503.738 1679.14 499.896C1679.14 496.055 1680.11 492.59 1682.04 489.915C1683.97 487.24 1686.55 485.182 1689.79 483.741C1693.03 482.3 1696.72 481.649 1700.85 481.786C1705.68 481.786 1709.78 482.781 1713.16 484.77C1716.54 486.759 1719.12 489.298 1720.91 492.385C1722.71 495.472 1723.6 498.799 1723.6 502.366H1750.07C1749.93 493.86 1747.8 486.554 1743.66 480.448C1739.53 474.343 1733.84 469.575 1726.6 466.145C1719.36 462.715 1710.92 461 1701.27 461C1691.62 461 1683.38 462.681 1676.14 466.042C1668.9 469.404 1663.25 474.103 1659.18 480.14C1655.12 486.176 1653.08 493.379 1653.08 501.749C1653.08 511.764 1656.01 519.791 1661.87 525.827C1667.73 531.864 1676.38 536.803 1687.83 540.645C1693.2 542.291 1698.34 543.904 1703.23 545.481C1708.13 547.059 1712.4 548.877 1716.05 550.935C1719.71 552.993 1722.57 555.497 1724.64 558.447C1726.7 561.397 1727.74 565.135 1727.74 569.663C1727.74 573.642 1726.77 577.106 1724.84 580.056C1722.91 583.006 1720.12 585.27 1716.47 586.847C1712.81 588.425 1708.51 589.214 1703.54 589.214C1697.75 589.214 1692.79 588.116 1688.65 585.921C1684.52 583.726 1681.35 580.742 1679.14 576.969C1676.93 573.196 1675.76 568.908 1675.62 564.106H1649.36C1649.5 573.573 1651.88 581.737 1656.5 588.597C1661.11 595.457 1667.49 600.739 1675.62 604.443C1683.76 608.148 1693.06 610 1703.54 610C1714.57 610 1723.81 608.045 1731.25 604.135C1738.7 600.224 1744.35 595.079 1748.21 588.7C1752.07 582.32 1754 575.425 1754 568.017C1754 559.51 1752.28 552.581 1748.83 547.231Z" fill="url(#paint18_linear_26896_2821)" fill-opacity="0.5" />
+</g>
+</g>
+<g id="FP symbol">
+<g id="Layer_1" opacity="0.2" clip-path="url(#clip1_26896_2821)">
+<path id="Vector_20" d="M1025.65 -1.85747e-06L1025.65 40" stroke="white" stroke-width="2" stroke-miterlimit="10" />
+<path id="Vector_21" d="M1020.14 -1.85747e-06L1020.14 40" stroke="white" stroke-width="3" stroke-miterlimit="10" />
+<path id="Vector_22" d="M1014.63 -1.85747e-06L1014.63 40" stroke="white" stroke-width="4" stroke-miterlimit="10" />
+<path id="Vector_23" d="M1009.12 -1.85747e-06L1009.12 40" stroke="white" stroke-width="5" stroke-miterlimit="10" />
+<path id="Vector_24" d="M1003.05 -1.85747e-06L1003.05 40" stroke="white" stroke-width="6" stroke-miterlimit="10" />
+</g>
+<g id="Layer_1_2" opacity="0.4" clip-path="url(#clip2_26896_2821)">
+<path id="Vector_25" d="M989.65 -1.85747e-06L989.65 40" stroke="white" stroke-width="2" stroke-miterlimit="10" />
+<path id="Vector_26" d="M984.143 -1.85747e-06L984.143 40" stroke="white" stroke-width="3" stroke-miterlimit="10" />
+<path id="Vector_27" d="M978.635 -1.85747e-06L978.635 40" stroke="white" stroke-width="4" stroke-miterlimit="10" />
+<path id="Vector_28" d="M973.123 -1.85747e-06L973.123 40" stroke="white" stroke-width="5" stroke-miterlimit="10" />
+<path id="Vector_29" d="M967.049 -1.85747e-06L967.049 40" stroke="white" stroke-width="6" stroke-miterlimit="10" />
+</g>
+<g id="Layer_1_3" opacity="0.7" clip-path="url(#clip3_26896_2821)">
+<path id="Vector_30" d="M954.65 -1.85747e-06L954.65 40" stroke="white" stroke-width="2" stroke-miterlimit="10" />
+<path id="Vector_31" d="M949.143 -1.85747e-06L949.143 40" stroke="white" stroke-width="3" stroke-miterlimit="10" />
+<path id="Vector_32" d="M943.635 -1.85747e-06L943.635 40" stroke="white" stroke-width="4" stroke-miterlimit="10" />
+<path id="Vector_33" d="M938.123 -1.85747e-06L938.123 40" stroke="white" stroke-width="5" stroke-miterlimit="10" />
+<path id="Vector_34" d="M932.049 -1.85747e-06L932.049 40" stroke="white" stroke-width="6" stroke-miterlimit="10" />
+</g>
+<g id="Layer_1_4" clip-path="url(#clip4_26896_2821)">
+<path id="Vector_35" d="M918.65 -1.85747e-06L918.65 40" stroke="white" stroke-width="2" stroke-miterlimit="10" />
+<path id="Vector_36" d="M913.143 -1.85747e-06L913.143 40" stroke="white" stroke-width="3" stroke-miterlimit="10" />
+<path id="Vector_37" d="M907.635 -1.85747e-06L907.635 40" stroke="white" stroke-width="4" stroke-miterlimit="10" />
+<path id="Vector_38" d="M902.123 -1.85747e-06L902.123 40" stroke="white" stroke-width="5" stroke-miterlimit="10" />
+<path id="Vector_39" d="M896.049 -1.85747e-06L896.049 40" stroke="white" stroke-width="6" stroke-miterlimit="10" />
+</g>
+</g>
+</g>
+<svg id="Embedded Chart" x="160" y="290" width="1600" height="540" viewBox="0 0 1152 259.2" preserveAspectRatio="xMidYMid meet" overflow="hidden"><metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-09-22T10:31:22.209259</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="embedded_chart_figure_1">
+  <g id="embedded_chart_patch_1">
+   <path d="M 0 259.2  L 1152 259.2  L 1152 0  L 0 0  L 0 259.2  z " style="fill: none" />
+  </g>
+  <g id="embedded_chart_axes_1">
+   <g clip-path="url(#embedded_chart_p36656d0f34)">
+    <image xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAkwAAAB9CAYAAABQ3TziAAACfUlEQVR4nO3dsXEDMQwAQdKDMpQpdf+FuQJXIJzy3031BdyAInhf79+/AwDARz+ffwIAQDABAHxh7jdfAQA8mCM5AIAw55gxAQBsRi8BAOwcyQEABMEEABAEEwBAEEwAAMEtOQCAYMIEABBs+gYACPYwAQAER3IAAEEwAQAEwQQAEKwVAAAIJkwAAEEwAQAEwQQAEOxhAgAINn0DAAS35AAAgv8wAQAEwQQAEAQTAEAQTAAAQTABAIQ599Y3AACPZsIEABAEEwBAsOkbACCYMAEABMEEABAEEwBA8PguAECYYw0TAMDKkRwAQBBMAABBMAEABMEEABDm+tc3AMDKhAkAIAgmAIBgDxMAQDBhAgAIggkAIAgmAIDg8V0AgGDCBAAQBBMAQJhbXwAAPJw9TAAAwZEcAEBwSw4AIJgwAQAEwQQAEAQTAEAQTAAAQTABAATBBAAQ5l67vgEANiZMAABBMAEABMEEABAEEwBAEEwAAMHjuwAAwYQJACDMsYYJAGA1egkAYOdIDgAgCCYAgOCWHABAMGECAAiCCQAgCCYAgGAPEwBAMGECAAiCCQAgzPU2CgDAyoQJACAIJgCAIJgAAIJgAgAI9jABAASP7wIABEdyAABBMAEABMEEABDm1hcAAA9nwgQAEAQTAECYcx3KAQBsTJgAAIJgAgAIggkAIAgmAIAgmAAAgsd3AQCCTd8AAGGONUwAACv/YQIACIIJACAIJgCA4JYcAEAwYQIACIIJACAIJgCAYA8TAECw6RsAIDiSAwAI1goAAAQTJgCAIJgAAIJgAgAIggkAINjDBAAQ3JIDAAiO5AAAgk3fAADBhAkAIAgmAICz+we3RALYZ0CULwAAAABJRU5ErkJggg==" id="embedded_chart_imageda84d7ec47" transform="scale(1 -1) translate(0 -90)" x="0.72" y="-28.8" width="423.36" height="90" />
+   </g>
+   <g clip-path="url(#embedded_chart_p8c6a49ea71)">
+    <image xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAtwAAAB9CAYAAACRdrQLAAAC4UlEQVR4nO3dQXEEQQwEQckhDsfjCJg/HSMwinpNJoDdb0eHpNnf7+dvAACAxE/zWQAAQOAGAIDYzWz9DwAAeNaJ2wAA0DHDDQAAoTNRAgAAHQ03AACEBG4AAAhZmgQAgJCGGwAAQpYmAQAgpOEGAICQGW4AAAhpuAEAIHTj5RsAAMhouAEAIORKCQAAhCxNAgBAyEgJAACEBG4AAAgJ3AAAEDLDDQAAIVdKAAAgZKQEAABCAjcAAIQEbgAACN3Olt8HAICnWZoEAICQkRIAAAgJ3AAAEPLwDQAAhDTcAAAQErgBACDkSgkAAIQ03AAAELI0CQAAIQ03AACEBG4AAAjdzJbfBwCAp93K2wAAkDFSAgAAIYEbAABCAjcAAIQEbgAACFmaBACAkIYbAABCAjcAAIQEbgAACJ13bwAAoKPhBgCA0I233QEAIKPhBgCAkMANAAAhS5MAABDScAMAQEjgBgCA0I1D3AAAkDHDDQAAISMlAAAQErgBACAkcAMAQEjgBgCA0O06UwIAABUNNwAAhARuAAAICdwAABDy8A0AAIQ87Q4AACEjJQAAEBK4AQAgZIYbAABCGm4AAAgJ3AAAELrxtDsAAGQ03AAAELI0CQAAIQ03AACEBG4AAAgJ3AAAEDpHSgAAoKPhBgCAkMANAAAhgRsAAEICNwAAhCxNAgBA6Ga2/D4AADzNSAkAAIQEbgAACJ2BEgAA6Gi4AQAgdHYmAQCgo+EGAICQwA0AACFLkwAAENJwAwBASOAGAICQKyUAABC6dRcQAAAyRkoAACAkcAMAQEjgBgCAkKVJAAAIefgGAABCRkoAACAkcAMAQEjgBgCAkBluAAAIuVICAAAhIyUAABC6mS2/DwAAT9NwAwBAyNIkAACENNwAABBypQQAAEIabgAACJnhBgCAkIYbAABCAjcAAIQsTQIAQEjDDQAAIUuTAAAQupktvw8AAE8zUgIAACGBGwAApvMP0l4DEZpVs4UAAAAASUVORK5CYII=" id="embedded_chart_image341666807a" transform="scale(1 -1) translate(0 -90)" x="426.4272" y="-28.8" width="527.04" height="90" />
+   </g>
+   <g clip-path="url(#embedded_chart_p2b52de1cfe)">
+    <image xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAQwAAAB9CAYAAABXhV1DAAAB5ElEQVR4nO3dwW3DUAxEQTJgD+nDDaT/dlxBWngGfNPMWb4ulvyS//69ft8DEPyUhwAEBvCRm9nPfgE81okLoLLDALIzkQCVhgFkAgPILD2BTMMAMktPINMwgMwOA8g0DCDzLQmQaRhA5pQEyCw9gcxIAmQCA8gEBpDZYQCZUxIgM5IAmcAAMoEBZLf+BRiILD2BzEgCZAIDyLy4BWQaBpAJDCBzSgJkGgaQWXoCmYYBZAIDyNxLAmS32x8Gns1IAmQCA8gEBpAJDCCz9AQyDQPIBAaQCQwg8/EZkGkYQHbj3XAg0jCATGAAmaUnkGkYQCYwgMw1A0BmhwFkRhIgExiAwAC+T8MAslvfkgCRhgFkAgPIBAaQeXELyLwaDmRGEiATGEBmhwFkGgaQCQwgc80AkGkYQGbpCWQaBpAJDCATGEB2/j8HqDQMIBMYQCYwgExgAJmlJ5DdzPangUczkgCZwAAyH58BmYYBZK4ZADINA8gEBpBZegKZhgFkAgPInJIA2a1vSYDISAJkAgPIBAaQWXoCmRe3gMxIAmQCA8gEBpDZYQCZUxIgM5IAmXtJgEzDADJLTyDTMIDMKQmQaRhAZocBZBoGkAkMILP0BDINA8gsPYEeGONeEiAykgCZwACm+gdZDAMRA7jgrwAAAABJRU5ErkJggg==" id="embedded_chart_image63810773c5" transform="scale(1 -1) translate(0 -90)" x="955.6848" y="-28.8" width="192.96" height="90" />
+   </g>
+   <g id="embedded_chart_patch_2">
+    <path d="M 3.6 28.8  L 420.6672 28.8  Q 423.5472 28.8 423.5472 31.68  L 423.5472 115.92  Q 423.5472 118.8 420.6672 118.8  L 3.6 118.8  Q 0.72 118.8 0.72 115.92  L 0.72 31.68  Q 0.72 28.8 3.6 28.8  L 3.6 28.8  z " clip-path="url(#embedded_chart_paba8a07113)" style="fill: none; stroke: #3c4653; stroke-width: 1.4; stroke-linejoin: miter" />
+   </g>
+   <g id="embedded_chart_patch_3">
+    <path d="M 429.3072 28.8  L 949.9248 28.8  Q 952.8048 28.8 952.8048 31.68  L 952.8048 115.92  Q 952.8048 118.8 949.9248 118.8  L 429.3072 118.8  Q 426.4272 118.8 426.4272 115.92  L 426.4272 31.68  Q 426.4272 28.8 429.3072 28.8  L 429.3072 28.8  z " clip-path="url(#embedded_chart_paba8a07113)" style="fill: none; stroke: #b8923a; stroke-width: 1.4; stroke-linejoin: miter" />
+   </g>
+   <g id="embedded_chart_patch_4">
+    <path d="M 958.5648 28.8  L 1145.52 28.8  Q 1148.4 28.8 1148.4 31.68  L 1148.4 115.92  Q 1148.4 118.8 1145.52 118.8  L 958.5648 118.8  Q 955.6848 118.8 955.6848 115.92  L 955.6848 31.68  Q 955.6848 28.8 958.5648 28.8  L 958.5648 28.8  z " clip-path="url(#embedded_chart_paba8a07113)" style="fill: none; stroke: #b8923a; stroke-width: 1.4; stroke-linejoin: miter" />
+   </g>
+   <g id="embedded_chart_text_1">
+    
+    <g style="fill: #d1d4dc" transform="translate(16.56 81.1125) scale(0.288 -0.288)">
+     <defs>
+      <path id="embedded_chart_Pretendard-Bold-33" d="M 2031 -63  Q 1541 -63 1152 107  Q 763 278 539 583  Q 316 888 306 1275  L 1256 1275  Q 1266 1109 1369 981  Q 1472 853 1647 783  Q 1822 713 2038 713  Q 2259 713 2436 792  Q 2613 872 2711 1012  Q 2809 1153 2806 1331  Q 2809 1516 2704 1659  Q 2600 1803 2406 1883  Q 2213 1963 1950 1963  L 1531 1963  L 1531 2656  L 1950 2656  Q 2169 2656 2341 2731  Q 2513 2806 2609 2943  Q 2706 3081 2706 3256  Q 2706 3428 2623 3559  Q 2541 3691 2391 3764  Q 2241 3838 2044 3838  Q 1844 3838 1676 3767  Q 1509 3697 1407 3567  Q 1306 3438 1300 3269  L 400 3269  Q 406 3653 622 3953  Q 838 4253 1211 4420  Q 1584 4588 2044 4588  Q 2506 4588 2864 4420  Q 3222 4253 3419 3961  Q 3616 3669 3613 3313  Q 3616 3066 3508 2864  Q 3400 2663 3204 2531  Q 3009 2400 2756 2356  L 2756 2319  Q 3084 2278 3315 2137  Q 3547 1997 3665 1773  Q 3784 1550 3781 1269  Q 3784 888 3559 583  Q 3334 278 2934 107  Q 2534 -63 2031 -63  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-37" d="M 2438 3725  L 2438 3756  L 219 3756  L 219 4525  L 3413 4525  L 3413 3744  L 1506 0  L 531 0  L 2438 3725  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-25" d="M 1544 2263  Q 1213 2263 978 2414  Q 744 2566 622 2837  Q 500 3109 500 3469  Q 500 3828 623 4103  Q 747 4378 983 4529  Q 1219 4681 1544 4681  Q 1878 4681 2111 4529  Q 2344 4378 2464 4104  Q 2584 3831 2588 3469  Q 2584 3106 2462 2834  Q 2341 2563 2106 2413  Q 1872 2263 1544 2263  z M 1544 2819  Q 1741 2819 1842 2994  Q 1944 3169 1950 3469  Q 1944 3775 1845 3950  Q 1747 4125 1544 4125  Q 1347 4125 1242 3945  Q 1138 3766 1138 3469  Q 1138 3172 1244 2995  Q 1350 2819 1544 2819  z M 4594 -150  Q 4266 -150 4031 1  Q 3797 153 3676 425  Q 3556 697 3556 1056  Q 3556 1416 3679 1691  Q 3803 1966 4037 2117  Q 4272 2269 4594 2269  Q 4928 2269 5162 2117  Q 5397 1966 5519 1692  Q 5641 1419 5644 1056  Q 5641 694 5519 422  Q 5397 150 5161 0  Q 4925 -150 4594 -150  z M 4594 406  Q 4794 406 4897 578  Q 5000 750 5006 1056  Q 5000 1363 4900 1536  Q 4800 1709 4594 1706  Q 4403 1706 4298 1528  Q 4194 1350 4194 1056  Q 4194 756 4298 581  Q 4403 406 4594 406  z M 4263 4525  L 4963 4525  L 1850 0  L 1150 0  L 4263 4525  z " transform="scale(0.015625)" />
+     </defs>
+     <use xlink:href="#embedded_chart_Pretendard-Bold-33" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-37" transform="translate(63.867188 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-25" transform="translate(121.386719 0)" />
+    </g>
+   </g>
+   <g id="embedded_chart_text_2">
+    
+    <g style="fill: #9ca3af" transform="translate(0.72 168.18435) scale(0.1872 -0.1872)">
+     <defs>
+      <path id="embedded_chart_Pretendard-Bold-55" d="M 4125 4525  L 4125 1588  Q 4125 1097 3890 722  Q 3656 347 3231 142  Q 2806 -63 2250 -63  Q 1694 -63 1270 142  Q 847 347 614 722  Q 381 1097 381 1588  L 381 4525  L 1319 4525  L 1319 1663  Q 1319 1403 1434 1198  Q 1550 994 1762 878  Q 1975 763 2250 763  Q 2528 763 2740 878  Q 2953 994 3067 1198  Q 3181 1403 3181 1663  L 3181 4525  L 4125 4525  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-53" d="M 2838 3231  Q 2809 3500 2603 3650  Q 2397 3800 2056 3800  Q 1822 3800 1655 3733  Q 1488 3666 1400 3547  Q 1313 3428 1313 3275  Q 1313 3056 1509 2925  Q 1706 2794 2038 2719  L 2444 2619  Q 3072 2478 3436 2154  Q 3800 1831 3800 1294  Q 3800 878 3590 573  Q 3381 269 2987 103  Q 2594 -63 2050 -63  Q 1500 -63 1095 106  Q 691 275 467 604  Q 244 934 231 1413  L 1144 1413  Q 1166 1078 1408 901  Q 1650 725 2038 725  Q 2281 725 2465 797  Q 2650 869 2750 997  Q 2850 1125 2850 1294  Q 2850 1513 2661 1641  Q 2472 1769 2075 1869  L 1581 1988  Q 350 2291 350 3219  Q 350 3625 570 3936  Q 791 4247 1181 4417  Q 1572 4588 2063 4588  Q 2556 4588 2934 4416  Q 3313 4244 3522 3936  Q 3731 3628 3738 3231  L 2838 3231  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-20" transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-52" d="M 381 4525  L 2156 4525  Q 2666 4525 3030 4344  Q 3394 4163 3584 3830  Q 3775 3497 3775 3050  Q 3775 2588 3569 2256  Q 3363 1925 2975 1759  L 3938 0  L 2900 0  L 2034 1606  L 1319 1606  L 1319 0  L 381 0  L 381 4525  z M 1981 2369  Q 2806 2369 2806 3050  Q 2806 3397 2600 3576  Q 2394 3756 1981 3756  L 1319 3756  L 1319 2369  L 1981 2369  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-65" d="M 1900 -69  Q 1384 -69 1007 143  Q 631 356 428 751  Q 225 1147 225 1681  Q 225 2203 426 2601  Q 628 3000 1000 3219  Q 1372 3438 1863 3438  Q 2319 3438 2680 3245  Q 3041 3053 3248 2665  Q 3456 2278 3456 1719  L 3456 1456  L 1138 1456  Q 1138 1203 1233 1015  Q 1328 828 1504 726  Q 1681 625 1919 625  Q 2147 625 2312 717  Q 2478 809 2550 969  L 3431 969  Q 3366 656 3162 422  Q 2959 188 2636 59  Q 2313 -69 1900 -69  z M 2581 2038  Q 2581 2241 2492 2402  Q 2403 2563 2243 2653  Q 2084 2744 1881 2744  Q 1675 2744 1508 2650  Q 1341 2556 1242 2393  Q 1144 2231 1138 2038  L 2581 2038  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-67" d="M 1888 -1344  Q 1425 -1344 1081 -1212  Q 738 -1081 542 -842  Q 347 -603 319 -281  L 1231 -281  Q 1269 -478 1445 -576  Q 1622 -675 1906 -675  Q 2247 -675 2436 -517  Q 2625 -359 2625 -19  L 2625 600  L 2581 600  Q 2475 366 2233 208  Q 1991 50 1613 50  Q 1219 50 906 236  Q 594 422 412 797  Q 231 1172 231 1719  Q 231 2275 415 2662  Q 600 3050 914 3244  Q 1228 3438 1613 3438  Q 1997 3438 2231 3259  Q 2466 3081 2581 2825  L 2619 2825  L 2619 3394  L 3538 3394  L 3538 -38  Q 3538 -459 3328 -753  Q 3119 -1047 2747 -1195  Q 2375 -1344 1888 -1344  z M 1900 744  Q 2244 744 2434 998  Q 2625 1253 2625 1706  Q 2625 2166 2434 2433  Q 2244 2700 1900 2700  Q 1556 2700 1368 2429  Q 1181 2159 1181 1706  Q 1181 1259 1367 1001  Q 1553 744 1900 744  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-75" d="M 2538 3394  L 3463 3394  L 3463 0  L 2575 0  L 2575 613  L 2538 613  Q 2416 309 2148 132  Q 1881 -44 1506 -44  Q 1166 -44 908 109  Q 650 263 506 552  Q 363 841 363 1231  L 363 3394  L 1288 3394  L 1288 1394  Q 1288 1094 1448 916  Q 1609 738 1881 738  Q 2056 738 2206 820  Q 2356 903 2447 1062  Q 2538 1222 2538 1444  L 2538 3394  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-6c" d="M 1288 0  L 363 0  L 363 4525  L 1288 4525  L 1288 0  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-61" d="M 200 950  Q 200 1475 553 1719  Q 906 1963 1463 1994  Q 1806 2016 2306 2038  L 2306 2313  Q 2300 2525 2159 2644  Q 2019 2763 1763 2763  Q 1531 2763 1384 2663  Q 1238 2563 1200 2388  L 319 2388  Q 347 2688 526 2925  Q 706 3163 1028 3300  Q 1350 3438 1788 3438  Q 2175 3438 2501 3316  Q 2828 3194 3026 2936  Q 3225 2678 3225 2288  L 3225 0  L 2350 0  L 2350 469  L 2325 469  Q 2191 222 1942 79  Q 1694 -63 1331 -63  Q 1000 -63 745 51  Q 491 166 345 394  Q 200 622 200 950  z M 1088 975  Q 1088 784 1227 679  Q 1366 575 1594 575  Q 1800 575 1964 659  Q 2128 744 2218 891  Q 2309 1038 2306 1213  L 2306 1459  Q 2159 1456 1943 1443  Q 1728 1431 1613 1419  Q 1369 1394 1228 1281  Q 1088 1169 1088 975  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-72" d="M 363 3394  L 1256 3394  L 1256 2806  L 1294 2806  Q 1384 3116 1603 3280  Q 1822 3444 2113 3444  Q 2272 3444 2406 3413  L 2406 2588  Q 2338 2606 2222 2622  Q 2106 2638 2013 2638  Q 1806 2638 1640 2547  Q 1475 2456 1381 2295  Q 1288 2134 1288 1931  L 1288 0  L 363 0  L 363 3394  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-48" d="M 381 4525  L 1319 4525  L 1319 2650  L 3281 2650  L 3281 4525  L 4225 4525  L 4225 0  L 3281 0  L 3281 1875  L 1319 1875  L 1319 0  L 381 0  L 381 4525  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-6f" d="M 1888 -69  Q 1381 -69 1006 150  Q 631 369 428 767  Q 225 1166 225 1688  Q 225 2209 426 2606  Q 628 3003 1004 3220  Q 1381 3438 1888 3438  Q 2394 3438 2772 3220  Q 3150 3003 3353 2606  Q 3556 2209 3556 1688  Q 3556 1166 3353 767  Q 3150 369 2772 150  Q 2394 -69 1888 -69  z M 1894 650  Q 2125 650 2287 783  Q 2450 916 2531 1150  Q 2613 1384 2613 1688  Q 2613 1991 2531 2227  Q 2450 2463 2287 2597  Q 2125 2731 1894 2731  Q 1659 2731 1495 2597  Q 1331 2463 1247 2227  Q 1163 1991 1163 1688  Q 1163 1388 1247 1152  Q 1331 916 1495 783  Q 1659 650 1894 650  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-73" d="M 2300 2388  Q 2272 2566 2122 2673  Q 1972 2781 1744 2781  Q 1594 2781 1473 2736  Q 1353 2691 1284 2611  Q 1216 2531 1219 2431  Q 1209 2191 1656 2094  L 2263 1969  Q 2756 1866 2998 1641  Q 3241 1416 3244 1050  Q 3241 719 3052 466  Q 2863 213 2522 72  Q 2181 -69 1738 -69  Q 1284 -69 953 61  Q 622 191 433 433  Q 244 675 206 1006  L 1138 1006  Q 1169 806 1325 703  Q 1481 600 1738 600  Q 1991 600 2145 697  Q 2300 794 2300 956  Q 2300 1088 2189 1170  Q 2078 1253 1838 1306  L 1275 1419  Q 794 1513 544 1759  Q 294 2006 300 2381  Q 297 2703 472 2942  Q 647 3181 972 3309  Q 1297 3438 1731 3438  Q 2153 3438 2468 3309  Q 2784 3181 2964 2945  Q 3144 2709 3169 2388  L 2300 2388  z " transform="scale(0.015625)" />
+     </defs>
+     <use xlink:href="#embedded_chart_Pretendard-Bold-55" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-53" transform="translate(70.410156 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-20" transform="translate(133.398438 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-52" transform="translate(156.445312 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-65" transform="translate(219.628906 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-67" transform="translate(277.050781 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-75" transform="translate(337.890625 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-6c" transform="translate(397.558594 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-61" transform="translate(423.242188 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-72" transform="translate(479.003906 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-20" transform="translate(517.96875 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-48" transform="translate(541.015625 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-6f" transform="translate(612.988281 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-75" transform="translate(671.972656 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-72" transform="translate(731.640625 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-73" transform="translate(770.605469 0)" />
+    </g>
+   </g>
+   <g id="embedded_chart_text_3">
+    
+    <g style="fill: #d1d4dc" transform="translate(442.2672 81.1125) scale(0.288 -0.288)">
+     <defs>
+      <path id="embedded_chart_Pretendard-Bold-34" d="M 281 1544  L 2194 4525  L 3375 4525  L 3375 1556  L 3950 1556  L 3950 800  L 3375 800  L 3375 0  L 2481 0  L 2481 800  L 281 800  L 281 1544  z M 2494 1556  L 2494 3494  L 2450 3494  L 1231 1594  L 1231 1556  L 2494 1556  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-36" d="M 2119 -63  Q 1613 -63 1200 154  Q 788 372 534 867  Q 281 1363 281 2156  Q 281 2909 509 3457  Q 738 4006 1159 4297  Q 1581 4588 2144 4588  Q 2588 4588 2941 4416  Q 3294 4244 3508 3944  Q 3722 3644 3769 3269  L 2844 3269  Q 2788 3509 2602 3645  Q 2416 3781 2144 3781  Q 1691 3781 1448 3398  Q 1206 3016 1200 2338  L 1244 2338  Q 1397 2634 1709 2804  Q 2022 2975 2400 2975  Q 2803 2975 3126 2786  Q 3450 2597 3634 2264  Q 3819 1931 3819 1513  Q 3819 1059 3605 701  Q 3391 344 3003 140  Q 2616 -63 2119 -63  z M 2100 681  Q 2328 681 2512 787  Q 2697 894 2801 1078  Q 2906 1263 2906 1488  Q 2906 1709 2804 1893  Q 2703 2078 2522 2186  Q 2341 2294 2113 2294  Q 1884 2294 1698 2186  Q 1513 2078 1405 1892  Q 1297 1706 1294 1488  Q 1297 1266 1401 1081  Q 1506 897 1690 789  Q 1875 681 2100 681  z " transform="scale(0.015625)" />
+     </defs>
+     <use xlink:href="#embedded_chart_Pretendard-Bold-34" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-36" transform="translate(65.722656 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-25" transform="translate(129.980469 0)" />
+    </g>
+   </g>
+   <g id="embedded_chart_text_4">
+    
+    <g style="fill: #9ca3af" transform="translate(426.4272 168.504638) scale(0.1872 -0.1872)">
+     <defs>
+      <path id="embedded_chart_Pretendard-Bold-57" d="M 100 4525  L 1125 4525  L 1888 1363  L 1925 1363  L 2756 4525  L 3638 4525  L 4469 1356  L 4506 1356  L 5269 4525  L 6294 4525  L 5000 0  L 4081 0  L 3219 2988  L 3181 2988  L 2313 0  L 1394 0  L 100 4525  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-6b" d="M 363 4525  L 1288 4525  L 1288 2094  L 1338 2094  L 2438 3394  L 3500 3394  L 2234 1925  L 3569 0  L 2481 0  L 1547 1381  L 1288 1088  L 1288 0  L 363 0  L 363 4525  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-64" d="M 1613 -56  Q 1219 -56 906 148  Q 594 353 412 748  Q 231 1144 231 1694  Q 231 2256 415 2648  Q 600 3041 914 3239  Q 1228 3438 1613 3438  Q 1997 3438 2228 3259  Q 2459 3081 2575 2825  L 2606 2825  L 2606 4525  L 3531 4525  L 3531 0  L 2619 0  L 2619 544  L 2575 544  Q 2456 291 2222 117  Q 1988 -56 1613 -56  z M 1900 681  Q 2128 681 2290 807  Q 2453 934 2539 1164  Q 2625 1394 2625 1700  Q 2625 2163 2434 2431  Q 2244 2700 1900 2700  Q 1556 2700 1368 2428  Q 1181 2156 1181 1700  Q 1181 1238 1368 959  Q 1556 681 1900 681  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-79" d="M 906 -1275  Q 616 -1275 438 -1256  L 438 -538  Q 675 -550 813 -550  Q 922 -550 995 -531  Q 1069 -513 1136 -444  Q 1203 -375 1256 -238  L 1313 -94  L 94 3394  L 1063 3394  L 1775 894  L 1813 894  L 2531 3394  L 3513 3394  L 2188 -375  Q 2034 -809 1728 -1042  Q 1422 -1275 906 -1275  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-4f" d="M 4525 2263  Q 4525 1544 4250 1017  Q 3975 491 3495 214  Q 3016 -63 2413 -63  Q 1806 -63 1325 215  Q 844 494 569 1020  Q 294 1547 294 2263  Q 294 2981 569 3507  Q 844 4034 1325 4311  Q 1806 4588 2413 4588  Q 3016 4588 3495 4311  Q 3975 4034 4250 3507  Q 4525 2981 4525 2263  z M 3569 2263  Q 3569 2741 3426 3075  Q 3284 3409 3025 3582  Q 2766 3756 2413 3756  Q 2059 3756 1798 3582  Q 1538 3409 1394 3073  Q 1250 2738 1250 2263  Q 1250 1788 1394 1452  Q 1538 1116 1798 942  Q 2059 769 2413 769  Q 2766 769 3025 942  Q 3284 1116 3426 1450  Q 3569 1784 3569 2263  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-66" d="M 2169 2700  L 1494 2700  L 1494 0  L 569 0  L 569 2700  L 88 2700  L 88 3394  L 569 3394  L 569 3650  Q 569 4175 866 4456  Q 1163 4738 1681 4738  Q 1988 4738 2231 4681  L 2231 3981  Q 2034 4000 1950 4000  Q 1722 4000 1608 3903  Q 1494 3806 1494 3600  L 1494 3394  L 2169 3394  L 2169 2700  z " transform="scale(0.015625)" />
+      <path id="embedded_chart_Pretendard-Bold-2d" d="M 2469 1494  L 406 1494  L 406 2231  L 2469 2231  L 2469 1494  z " transform="scale(0.015625)" />
+     </defs>
+     <use xlink:href="#embedded_chart_Pretendard-Bold-57" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-65" transform="translate(99.902344 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-65" transform="translate(157.324219 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-6b" transform="translate(214.746094 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-64" transform="translate(270.507812 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-61" transform="translate(331.640625 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-79" transform="translate(387.402344 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-20" transform="translate(443.652344 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-4f" transform="translate(466.699219 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-66" transform="translate(541.992188 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-66" transform="translate(578.710938 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-2d" transform="translate(615.429688 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-48" transform="translate(660.351562 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-6f" transform="translate(732.324219 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-75" transform="translate(791.308594 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-72" transform="translate(850.976562 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-73" transform="translate(889.941406 0)" />
+    </g>
+   </g>
+   <g id="embedded_chart_text_5">
+    
+    <g style="fill: #d1d4dc" transform="translate(971.5248 81.1125) scale(0.288 -0.288)">
+     <defs>
+      <path id="embedded_chart_Pretendard-Bold-31" d="M 2306 0  L 1363 0  L 1363 3631  L 1338 3631  L 300 2981  L 300 3813  L 1419 4525  L 2306 4525  L 2306 0  z " transform="scale(0.015625)" />
+     </defs>
+     <use xlink:href="#embedded_chart_Pretendard-Bold-31" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-37" transform="translate(46.875 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-25" transform="translate(104.394531 0)" />
+    </g>
+   </g>
+   <g id="embedded_chart_text_6">
+    
+    <g style="fill: #9ca3af" transform="translate(955.6848 168.193125) scale(0.1872 -0.1872)">
+     <defs>
+      <path id="embedded_chart_Pretendard-Bold-6e" d="M 1288 0  L 363 0  L 363 3394  L 1244 3394  L 1244 2800  L 1281 2800  Q 1400 3100 1665 3269  Q 1931 3438 2300 3438  Q 2653 3438 2918 3284  Q 3184 3131 3328 2842  Q 3472 2553 3469 2163  L 3469 0  L 2550 0  L 2550 2000  Q 2550 2313 2387 2491  Q 2225 2669 1938 2669  Q 1641 2669 1464 2481  Q 1288 2294 1288 1963  L 1288 0  z " transform="scale(0.015625)" />
+     </defs>
+     <use xlink:href="#embedded_chart_Pretendard-Bold-57" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-65" transform="translate(99.902344 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-65" transform="translate(157.324219 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-6b" transform="translate(214.746094 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-65" transform="translate(270.507812 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-6e" transform="translate(327.929688 0)" />
+     <use xlink:href="#embedded_chart_Pretendard-Bold-64" transform="translate(387.695312 0)" />
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="embedded_chart_p36656d0f34">
+   <path d="M 3.6 28.8  L 420.6672 28.8  Q 423.5472 28.8 423.5472 31.68  L 423.5472 115.92  Q 423.5472 118.8 420.6672 118.8  L 3.6 118.8  Q 0.72 118.8 0.72 115.92  L 0.72 31.68  Q 0.72 28.8 3.6 28.8  z " />
+  </clipPath>
+  <clipPath id="embedded_chart_p8c6a49ea71">
+   <path d="M 429.3072 28.8  L 949.9248 28.8  Q 952.8048 28.8 952.8048 31.68  L 952.8048 115.92  Q 952.8048 118.8 949.9248 118.8  L 429.3072 118.8  Q 426.4272 118.8 426.4272 115.92  L 426.4272 31.68  Q 426.4272 28.8 429.3072 28.8  z " />
+  </clipPath>
+  <clipPath id="embedded_chart_p2b52de1cfe">
+   <path d="M 958.5648 28.8  L 1145.52 28.8  Q 1148.4 28.8 1148.4 31.68  L 1148.4 115.92  Q 1148.4 118.8 1145.52 118.8  L 958.5648 118.8  Q 955.6848 118.8 955.6848 115.92  L 955.6848 31.68  Q 955.6848 28.8 958.5648 28.8  z " />
+  </clipPath>
+  <clipPath id="embedded_chart_paba8a07113">
+   <rect x="0" y="0" width="1152" height="259.2" />
+  </clipPath>
+ </defs>
+</svg><g id="Dynamic Title"><text x="960" y="123" fill="#E6E6E6" font-family="Pretendard" font-size="50.00" font-weight="700" text-anchor="middle"><tspan x="960" dy="0">When tokenized equities trade</tspan></text></g><g id="Dynamic Subtitle"><text x="160" y="257" fill="#CBCBCB" font-family="Pretendard" font-size="38.00" font-weight="500" text-anchor="start"><tspan x="160" dy="0">Share of Solana onchain spot volume over 12 months</tspan></text></g><g id="Dynamic Legend" data-position="bottom"><g aria-label="US regular hours" transform="translate(585.4 850)"><rect y="2" width="24" height="24" rx="6" fill="#3C4653" /><text x="43" y="23.8984" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500">US regular hours</text></g><g aria-label="Outside US regular hours" transform="translate(915.28 850)"><rect y="2" width="24" height="24" rx="6" fill="#B8923A" /><text x="43" y="23.8984" fill="#D1D5DB" font-family="Pretendard" font-size="28" font-weight="500">Outside US regular hours</text></g></g><g id="Footer Info">
+<g id="Group 1991501008">
+<g id="FP LOGO">
+<g id="Group 2781_2">
+<path id="Vector_40" d="M1593.12 1036.96C1595.36 1036.96 1597.19 1035.16 1597.19 1032.95C1597.19 1030.73 1595.36 1028.93 1593.12 1028.93C1590.87 1028.93 1589.05 1030.73 1589.05 1032.95C1589.05 1035.16 1590.87 1036.96 1593.12 1036.96Z" fill="#898989" />
+<path id="Vector_41" d="M1606.67 1036.91C1608.92 1036.91 1610.74 1035.12 1610.74 1032.9C1610.74 1030.68 1608.92 1028.88 1606.67 1028.88C1604.42 1028.88 1602.6 1030.68 1602.6 1032.9C1602.6 1035.12 1604.42 1036.91 1606.67 1036.91Z" fill="#898989" />
+<path id="Vector_42" d="M1593.07 1023.57C1595.31 1023.57 1597.13 1021.77 1597.13 1019.56C1597.13 1017.34 1595.31 1015.54 1593.07 1015.54C1590.82 1015.54 1589 1017.34 1589 1019.56C1589 1021.77 1590.82 1023.57 1593.07 1023.57Z" fill="#898989" />
+<path id="Vector_43" d="M1606.62 1023.52C1608.87 1023.52 1610.69 1021.72 1610.69 1019.5C1610.69 1017.28 1608.87 1015.48 1606.62 1015.48C1604.37 1015.48 1602.55 1017.28 1602.55 1019.5C1602.55 1021.72 1604.37 1023.52 1606.62 1023.52Z" fill="#898989" />
+</g>
+<path id="Vector_44" d="M1622.63 1038.04H1626.74V1027.81H1635.86V1024.6H1626.74V1017.68H1637.91V1014.41H1622.63V1038.04Z" fill="#898989" />
+<path id="Vector_45" d="M1658.47 1015.55C1656.71 1014.52 1654.66 1014 1652.34 1014C1650.01 1014 1647.94 1014.52 1646.19 1015.55C1644.43 1016.59 1643.06 1018.02 1642.07 1019.86C1641.08 1021.69 1640.58 1023.81 1640.58 1026.22C1640.58 1028.63 1641.08 1030.79 1642.07 1032.62C1643.06 1034.46 1644.43 1035.89 1646.19 1036.91C1647.94 1037.93 1649.99 1038.45 1652.34 1038.45C1654.68 1038.45 1656.71 1037.93 1658.47 1036.91C1660.24 1035.89 1661.62 1034.46 1662.61 1032.62C1663.6 1030.79 1664.1 1028.65 1664.1 1026.22C1664.1 1023.79 1663.6 1021.69 1662.61 1019.86C1661.62 1018.02 1660.24 1016.59 1658.47 1015.55ZM1658.99 1030.81C1658.36 1032.1 1657.47 1033.08 1656.32 1033.77C1655.17 1034.46 1653.84 1034.8 1652.34 1034.8C1650.83 1034.8 1649.48 1034.46 1648.34 1033.77C1647.2 1033.08 1646.32 1032.1 1645.69 1030.81C1645.06 1029.53 1644.75 1028 1644.75 1026.22C1644.75 1024.44 1645.06 1022.91 1645.69 1021.63C1646.32 1020.35 1647.2 1019.36 1648.34 1018.68C1649.48 1017.99 1650.81 1017.65 1652.34 1017.65C1653.86 1017.65 1655.17 1017.99 1656.32 1018.68C1657.47 1019.36 1658.36 1020.35 1658.99 1021.63C1659.61 1022.91 1659.93 1024.44 1659.93 1026.22C1659.93 1028 1659.61 1029.53 1658.99 1030.81Z" fill="#898989" />
+<path id="Vector_46" d="M1682.52 1029.09C1682.52 1030.38 1682.3 1031.43 1681.87 1032.27C1681.44 1033.1 1680.83 1033.73 1680.06 1034.14C1679.28 1034.56 1678.35 1034.77 1677.25 1034.77C1676.16 1034.77 1675.25 1034.56 1674.45 1034.14C1673.65 1033.73 1673.04 1033.1 1672.62 1032.27C1672.2 1031.43 1671.99 1030.38 1671.99 1029.09V1014.41H1667.89V1029.06C1667.89 1031.18 1668.3 1032.93 1669.14 1034.33C1669.97 1035.72 1671.08 1036.76 1672.49 1037.43C1673.89 1038.11 1675.45 1038.45 1677.19 1038.45C1678.92 1038.45 1680.5 1038.11 1681.92 1037.43C1683.34 1036.76 1684.48 1035.72 1685.34 1034.33C1686.19 1032.93 1686.62 1031.18 1686.62 1029.06V1014.41H1682.52V1029.09Z" fill="#898989" />
+<path id="Vector_47" d="M1704.51 1027.68C1705.75 1027.02 1706.67 1026.16 1707.26 1025.08C1707.85 1024 1708.15 1022.82 1708.15 1021.56C1708.15 1020.21 1707.85 1019 1707.24 1017.93C1706.64 1016.87 1705.72 1016.01 1704.49 1015.37C1703.26 1014.73 1701.69 1014.41 1699.78 1014.41H1691.2V1038.04H1695.3V1028.65H1699.16L1703.68 1038.04H1708.4L1703.4 1028.14C1703.8 1028.01 1704.17 1027.86 1704.52 1027.68H1704.51ZM1695.3 1017.78H1699.5C1701.05 1017.78 1702.18 1018.14 1702.89 1018.85C1703.59 1019.56 1703.95 1020.5 1703.95 1021.67C1703.95 1022.84 1703.59 1023.82 1702.87 1024.55C1702.15 1025.28 1701.04 1025.65 1699.54 1025.65H1695.3V1017.78Z" fill="#898989" />
+<path id="Vector_48" d="M1731.37 1015.37C1730.1 1014.73 1728.51 1014.41 1726.6 1014.41H1717.98V1038.04H1722.09V1028.89H1726.6C1728.56 1028.89 1730.16 1028.55 1731.42 1027.88C1732.67 1027.2 1733.59 1026.33 1734.19 1025.24C1734.78 1024.16 1735.07 1022.97 1735.07 1021.67C1735.07 1020.27 1734.77 1019.03 1734.17 1017.95C1733.56 1016.87 1732.63 1016.01 1731.37 1015.37ZM1729.84 1024.52C1729.14 1025.23 1727.99 1025.58 1726.39 1025.58H1722.09V1017.72H1726.39C1727.99 1017.72 1729.14 1018.06 1729.84 1018.74C1730.55 1019.43 1730.9 1020.39 1730.9 1021.63C1730.9 1022.87 1730.55 1023.81 1729.84 1024.52Z" fill="#898989" />
+<path id="Vector_49" d="M1742.73 1014.41H1738.63V1038.04H1742.73V1014.41Z" fill="#898989" />
+<path id="Vector_50" d="M1751.65 1014.41H1747.55V1038.04H1762.35V1034.87H1751.65V1014.41Z" fill="#898989" />
+<path id="Vector_51" d="M1770.42 1014.41H1766.31V1038.04H1781.11V1034.87H1770.42V1014.41Z" fill="#898989" />
+<path id="Vector_52" d="M1792.26 1014.41L1783.47 1038.04H1787.78L1789.76 1032.47H1799.26L1801.24 1038.04H1805.58L1796.84 1014.41H1792.26ZM1790.9 1029.26L1794.51 1019.13L1798.11 1029.26H1790.9Z" fill="#898989" />
+<path id="Vector_53" d="M1822.18 1027.68C1823.42 1027.02 1824.34 1026.16 1824.93 1025.08C1825.52 1024 1825.82 1022.82 1825.82 1021.56C1825.82 1020.21 1825.52 1019 1824.91 1017.93C1824.31 1016.87 1823.39 1016.01 1822.16 1015.37C1820.93 1014.73 1819.36 1014.41 1817.45 1014.41H1808.87V1038.04H1812.97V1028.65H1816.83L1821.35 1038.04H1826.07L1821.07 1028.14C1821.47 1028.01 1821.84 1027.86 1822.19 1027.68H1822.18ZM1812.97 1017.78H1817.17C1818.72 1017.78 1819.85 1018.14 1820.56 1018.85C1821.26 1019.56 1821.62 1020.5 1821.62 1021.67C1821.62 1022.84 1821.26 1023.82 1820.54 1024.55C1819.82 1025.28 1818.71 1025.65 1817.21 1025.65H1812.97V1017.78Z" fill="#898989" />
+<path id="Vector_54" d="M1845.58 1028.15C1845.01 1027.27 1844.24 1026.55 1843.27 1026C1842.3 1025.45 1841.22 1024.98 1840.04 1024.6C1839.17 1024.31 1838.38 1024.04 1837.66 1023.79C1836.95 1023.54 1836.31 1023.28 1835.77 1023C1835.22 1022.72 1834.8 1022.37 1834.5 1021.95C1834.21 1021.54 1834.06 1021.01 1834.06 1020.38C1834.06 1019.75 1834.22 1019.18 1834.54 1018.74C1834.86 1018.3 1835.28 1017.97 1835.82 1017.73C1836.35 1017.49 1836.96 1017.39 1837.65 1017.41C1838.45 1017.41 1839.12 1017.57 1839.68 1017.9C1840.24 1018.23 1840.67 1018.64 1840.96 1019.15C1841.26 1019.66 1841.41 1020.2 1841.41 1020.79H1845.78C1845.76 1019.39 1845.41 1018.19 1844.72 1017.19C1844.04 1016.19 1843.1 1015.41 1841.9 1014.84C1840.71 1014.28 1839.31 1014 1837.72 1014C1836.12 1014 1834.76 1014.28 1833.56 1014.83C1832.37 1015.38 1831.43 1016.15 1830.76 1017.14C1830.09 1018.13 1829.75 1019.31 1829.75 1020.69C1829.75 1022.33 1830.24 1023.65 1831.2 1024.64C1832.17 1025.63 1833.6 1026.44 1835.49 1027.07C1836.38 1027.34 1837.23 1027.6 1838.04 1027.86C1838.85 1028.12 1839.56 1028.42 1840.16 1028.76C1840.76 1029.09 1841.24 1029.5 1841.58 1029.99C1841.92 1030.47 1842.09 1031.08 1842.09 1031.83C1842.09 1032.48 1841.93 1033.05 1841.61 1033.53C1841.29 1034.02 1840.83 1034.39 1840.23 1034.65C1839.62 1034.91 1838.91 1035.04 1838.09 1035.04C1837.13 1035.04 1836.31 1034.86 1835.63 1034.5C1834.95 1034.13 1834.42 1033.65 1834.06 1033.03C1833.69 1032.41 1833.5 1031.7 1833.48 1030.92H1829.14C1829.16 1032.47 1829.55 1033.81 1830.32 1034.93C1831.08 1036.06 1832.13 1036.93 1833.48 1037.53C1834.82 1038.14 1836.36 1038.45 1838.09 1038.45C1839.91 1038.45 1841.44 1038.12 1842.67 1037.48C1843.9 1036.84 1844.84 1036 1845.47 1034.95C1846.11 1033.9 1846.43 1032.77 1846.43 1031.56C1846.43 1030.16 1846.15 1029.03 1845.58 1028.15Z" fill="#898989" />
+</g>
+</g>
+<g id="Dynamic Source"><rect x="82" y="1014" width="2" height="20" fill="#777B80" fill-opacity="0.8" /><g id="Dynamic Source_label"><text x="110" y="1031" fill="#4F5358" font-family="Pretendard" font-size="22.00" font-weight="500" text-anchor="start"><tspan x="110" dy="0">Source</tspan></text></g><g id="Dynamic Source_value"><text x="215" y="1034" fill="#777B80" font-family="Pretendard" font-size="28.00" font-weight="500" text-anchor="start"><tspan x="215" dy="0">Allium p.43</tspan></text></g></g><g id="Dynamic Date"><rect x="960" y="1014" width="2" height="20" fill="#777B80" fill-opacity="0.8" /><g id="Dynamic Date_label"><text x="987" y="1031" fill="#4F5358" font-family="Pretendard" font-size="22.00" font-weight="500" text-anchor="start"><tspan x="987" dy="0">Date as of</tspan></text></g><g id="Dynamic Date_value"><text x="1125" y="1034" fill="#777B80" font-family="Pretendard" font-size="28.00" font-weight="500" text-anchor="start"><tspan x="1125" dy="0">Sep 21, 2026</tspan></text></g></g></g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_26896_2821" x1="4.29365e-06" y1="-55.9413" x2="720.117" y2="-55.9413" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" />
+<stop offset="1" stop-color="#333131" />
+</linearGradient>
+<linearGradient id="paint1_linear_26896_2821" x1="1560.18" y1="-416" x2="1560.18" y2="304.117" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" />
+<stop offset="1" stop-color="#333131" />
+</linearGradient>
+<linearGradient id="paint2_linear_26896_2821" x1="360.059" y1="1496.23" x2="360.059" y2="776.117" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" />
+<stop offset="1" stop-color="#333131" />
+</linearGradient>
+<linearGradient id="paint3_linear_26896_2821" x1="1920.23" y1="1136.18" x2="1200.12" y2="1136.18" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" />
+<stop offset="1" stop-color="#333131" />
+</linearGradient>
+<linearGradient id="paint4_linear_26896_2821" x1="166.312" y1="576.453" x2="215.53" y2="576.453" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint5_linear_26896_2821" x1="248.305" y1="576.145" x2="297.523" y2="576.145" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint6_linear_26896_2821" x1="166" y1="494.854" x2="215.218" y2="494.854" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint7_linear_26896_2821" x1="247.994" y1="494.545" x2="297.212" y2="494.545" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint8_linear_26896_2821" x1="383.137" y1="535.501" x2="475.575" y2="535.501" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint9_linear_26896_2821" x1="491.916" y1="535.5" x2="634.193" y2="535.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint10_linear_26896_2821" x1="657.146" y1="536.736" x2="770.472" y2="536.736" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint11_linear_26896_2821" x1="798.18" y1="535.501" x2="902.233" y2="535.501" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint12_linear_26896_2821" x1="976.854" y1="535.501" x2="1080.25" y2="535.501" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint13_linear_26896_2821" x1="1101.76" y1="535.501" x2="1126.58" y2="535.501" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint14_linear_26896_2821" x1="1155.73" y1="535.501" x2="1245.28" y2="535.501" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint15_linear_26896_2821" x1="1269.27" y1="535.501" x2="1358.81" y2="535.501" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint16_linear_26896_2821" x1="1373.08" y1="535.501" x2="1506.84" y2="535.501" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint17_linear_26896_2821" x1="1526.73" y1="535.501" x2="1630.78" y2="535.501" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint18_linear_26896_2821" x1="1649.36" y1="535.5" x2="1754" y2="535.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D1D1D" />
+<stop offset="1" stop-color="#2B2B2B" />
+</linearGradient>
+<linearGradient id="paint19_linear_26896_2821" x1="84" y1="1025.98" x2="81.7016" y2="1025.98" gradientUnits="userSpaceOnUse">
+<stop stop-color="#222324" />
+<stop offset="1" stop-color="#82868A" />
+</linearGradient>
+<linearGradient id="paint20_linear_26896_2821" x1="1053" y1="1025.98" x2="1050.7" y2="1025.98" gradientUnits="userSpaceOnUse">
+<stop stop-color="#222324" />
+<stop offset="1" stop-color="#82868A" />
+</linearGradient>
+<clipPath id="clip0_26896_2821">
+<rect width="1920" height="1080" fill="white" />
+</clipPath>
+<clipPath id="clip1_26896_2821">
+<rect width="24" height="40" fill="white" transform="matrix(1 9.4467e-08 8.09038e-08 -1 1002 40)" />
+</clipPath>
+<clipPath id="clip2_26896_2821">
+<rect width="24" height="40" fill="white" transform="matrix(1 9.4467e-08 8.09038e-08 -1 966 40)" />
+</clipPath>
+<clipPath id="clip3_26896_2821">
+<rect width="24" height="40" fill="white" transform="matrix(1 9.63949e-08 7.92858e-08 -1 931 40)" />
+</clipPath>
+<clipPath id="clip4_26896_2821">
+<rect width="24" height="40" fill="white" transform="matrix(1 1.61894e-07 4.72083e-08 -1 895 40)" />
+</clipPath>
+</defs>
+</svg>

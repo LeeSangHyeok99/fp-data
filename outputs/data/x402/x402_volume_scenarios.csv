@@ -1,7 +1,0 @@
-scenario,t2_usd,t3_usd,total_usd,pct_of_benchmark,note
-Gradual,6530000000,179910000000,186450000000,2.79,scenario
-Rapid,30040000000,656430000000,686470000000,10.28,scenario
-High Adoption,77050000000,1839100000000,1916100000000,28.68,scenario
-All-Time x402,0,0,54280000,0.0,actual cumulative
-2026 E-Commerce,0,0,6680000000000,100.0,benchmark
-2025 B2B Payments,0,0,186000000000000,2784.43,benchmark

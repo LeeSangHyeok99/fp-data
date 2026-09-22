@@ -8,4 +8,3 @@ __pycache__/
 .venv/
 .playwright-mcp/
 outputs/newsletters/
-outputs/infographics/
